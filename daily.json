@@ -1,24 +1,24 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "categories": {
     "sports": {
-      "word": "CHAMPION",
-      "hint": "The ultimate winner of a sports contest.",
-      "length": 8
+      "word": "RACER",
+      "hint": "A competitor speeding towards the finish line.",
+      "length": 5
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "A follow-up film or book that continues an earlier story.",
+      "word": "REBOOT",
+      "hint": "A popular classic film or TV show gets a fresh start.",
       "length": 6
     },
     "tech_science": {
-      "word": "SPACEX",
-      "hint": "Elon Musk's company known for rocket launches and Starlink.",
-      "length": 6
+      "word": "QUANTUM",
+      "hint": "The next frontier in computing power.",
+      "length": 7
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "A high-level meeting between heads of government or states.",
+      "word": "TREATY",
+      "hint": "Nations sign a historic accord for global cooperation.",
       "length": 6
     }
   }
