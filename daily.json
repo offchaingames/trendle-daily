@@ -1,24 +1,24 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "categories": {
     "sports": {
-      "word": "RACER",
-      "hint": "A competitor speeding towards the finish line.",
-      "length": 5
+      "word": "FRENCH",
+      "hint": "The clay court Grand Slam tournament held annually in Paris.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "REBOOT",
-      "hint": "A popular classic film or TV show gets a fresh start.",
+      "word": "AWARDS",
+      "hint": "Red carpet glamour and golden statues celebrating artistic achievements.",
       "length": 6
     },
     "tech_science": {
-      "word": "QUANTUM",
-      "hint": "The next frontier in computing power.",
-      "length": 7
+      "word": "ROBOTS",
+      "hint": "These automated machines are becoming smarter and more integrated into daily life.",
+      "length": 6
     },
     "major_news": {
-      "word": "TREATY",
-      "hint": "Nations sign a historic accord for global cooperation.",
+      "word": "SUMMIT",
+      "hint": "Global leaders gather to discuss pressing international challenges and cooperation.",
       "length": 6
     }
   }
