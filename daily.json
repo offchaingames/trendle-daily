@@ -1,25 +1,25 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "categories": {
     "sports": {
-      "word": "FRENCH",
-      "hint": "The clay court Grand Slam tournament held annually in Paris.",
+      "word": "TENNIS",
+      "hint": "The clay courts of Roland Garros are hosting grand slam action!",
       "length": 6
     },
     "pop_culture": {
-      "word": "AWARDS",
-      "hint": "Red carpet glamour and golden statues celebrating artistic achievements.",
+      "word": "MARVEL",
+      "hint": "The cinematic universe continues to expand with new superhero tales.",
       "length": 6
     },
     "tech_science": {
       "word": "ROBOTS",
-      "hint": "These automated machines are becoming smarter and more integrated into daily life.",
+      "hint": "Automation is becoming more common in homes and factories.",
       "length": 6
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "Global leaders gather to discuss pressing international challenges and cooperation.",
-      "length": 6
+      "word": "ELECTION",
+      "hint": "Many countries are preparing for or have recently held votes for their leaders.",
+      "length": 8
     }
   }
 }
