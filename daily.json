@@ -1,25 +1,25 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "categories": {
     "sports": {
-      "word": "TENNIS",
-      "hint": "The clay courts of Roland Garros are hosting grand slam action!",
+      "word": "ROLAND",
+      "hint": "The famous clay court tournament happening in Paris.",
       "length": 6
     },
     "pop_culture": {
-      "word": "MARVEL",
-      "hint": "The cinematic universe continues to expand with new superhero tales.",
+      "word": "SEQUEL",
+      "hint": "Another installment of a beloved film franchise hits theaters.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROBOTS",
-      "hint": "Automation is becoming more common in homes and factories.",
-      "length": 6
+      "word": "ROVER",
+      "hint": "A new robotic explorer could be heading to a distant planet.",
+      "length": 5
     },
     "major_news": {
-      "word": "ELECTION",
-      "hint": "Many countries are preparing for or have recently held votes for their leaders.",
-      "length": 8
+      "word": "CLIMATE",
+      "hint": "World leaders are gathering to discuss the planet's changing conditions.",
+      "length": 7
     }
   }
 }
