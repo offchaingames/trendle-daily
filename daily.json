@@ -1,25 +1,25 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "categories": {
     "sports": {
-      "word": "ROLAND",
-      "hint": "The famous clay court tournament happening in Paris.",
-      "length": 6
+      "word": "RALLY",
+      "hint": "When a team or player makes a strong comeback from a losing position.",
+      "length": 5
     },
     "pop_culture": {
       "word": "SEQUEL",
-      "hint": "Another installment of a beloved film franchise hits theaters.",
+      "hint": "A follow-up film or book that continues the story.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROVER",
-      "hint": "A new robotic explorer could be heading to a distant planet.",
-      "length": 5
+      "word": "ROBOTICS",
+      "hint": "The field of engineering that deals with the design, construction, operation, and application of intelligent machines.",
+      "length": 8
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "World leaders are gathering to discuss the planet's changing conditions.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "A high-level meeting between heads of government or states to discuss important issues.",
+      "length": 6
     }
   }
 }
