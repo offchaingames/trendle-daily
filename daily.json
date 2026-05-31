@@ -1,24 +1,24 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "categories": {
     "sports": {
-      "word": "RALLY",
-      "hint": "When a team or player makes a strong comeback from a losing position.",
-      "length": 5
+      "word": "BASKET",
+      "hint": "Swish through the net for two or three points.",
+      "length": 6
     },
     "pop_culture": {
       "word": "SEQUEL",
-      "hint": "A follow-up film or book that continues the story.",
+      "hint": "The next chapter in a popular film franchise.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROBOTICS",
-      "hint": "The field of engineering that deals with the design, construction, operation, and application of intelligent machines.",
-      "length": 8
+      "word": "ROBOTS",
+      "hint": "Automated machines often seen in factories or sci-fi.",
+      "length": 6
     },
     "major_news": {
       "word": "SUMMIT",
-      "hint": "A high-level meeting between heads of government or states to discuss important issues.",
+      "hint": "World leaders gather to discuss global issues.",
       "length": 6
     }
   }
