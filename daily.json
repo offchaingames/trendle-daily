@@ -1,24 +1,24 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "categories": {
     "sports": {
-      "word": "BASKET",
-      "hint": "Swish through the net for two or three points.",
+      "word": "FINALS",
+      "hint": "The championship series on the basketball court.",
       "length": 6
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "The next chapter in a popular film franchise.",
-      "length": 6
+      "word": "ALBUM",
+      "hint": "A collection of new songs from a chart-topping artist.",
+      "length": 5
     },
     "tech_science": {
       "word": "ROBOTS",
-      "hint": "Automated machines often seen in factories or sci-fi.",
+      "hint": "Increasingly advanced machines showcased at a tech expo.",
       "length": 6
     },
     "major_news": {
       "word": "SUMMIT",
-      "hint": "World leaders gather to discuss global issues.",
+      "hint": "Global leaders gather to discuss pressing world issues.",
       "length": 6
     }
   }
