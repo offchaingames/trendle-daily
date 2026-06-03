@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "The world's most popular sport, featuring global championships and passionate fans.",
+      "word": "FINALS",
+      "hint": "The ultimate series where basketball champions are crowned.",
       "length": 6
     },
     "pop_culture": {
-      "word": "ALBUM",
-      "hint": "Fans are streaming the new release from their favorite music artist, dominating the charts.",
+      "word": "BLOCK",
+      "hint": "A massive hit movie that rakes in huge box office numbers.",
       "length": 5
     },
     "tech_science": {
-      "word": "QUANTUM",
-      "hint": "Cutting-edge computing and physics research often delve into this strange, small world.",
-      "length": 7
+      "word": "ROBOTS",
+      "hint": "Machines designed to perform tasks, often with artificial intelligence.",
+      "length": 6
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "The ongoing global discussion about changing weather and environmental policies.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "A high-level meeting of world leaders to discuss global issues.",
+      "length": 6
     }
   }
 }
