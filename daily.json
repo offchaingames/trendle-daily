@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "categories": {
     "sports": {
-      "word": "FINALS",
-      "hint": "The ultimate series where basketball champions are crowned.",
+      "word": "CANADA",
+      "hint": "One of the three nations co-hosting the next global football tournament.",
       "length": 6
     },
     "pop_culture": {
-      "word": "BLOCK",
-      "hint": "A massive hit movie that rakes in huge box office numbers.",
-      "length": 5
+      "word": "FESTIVAL",
+      "hint": "Music lovers gather for a multi-day outdoor event.",
+      "length": 8
     },
     "tech_science": {
       "word": "ROBOTS",
-      "hint": "Machines designed to perform tasks, often with artificial intelligence.",
+      "hint": "They're getting smarter and more integrated into our daily lives.",
       "length": 6
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "A high-level meeting of world leaders to discuss global issues.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "Global leaders are meeting to discuss Earth's changing weather patterns.",
+      "length": 7
     }
   }
 }
