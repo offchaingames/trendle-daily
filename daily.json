@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "categories": {
     "sports": {
-      "word": "CANADA",
-      "hint": "One of the three nations co-hosting the next global football tournament.",
+      "word": "BASKET",
+      "hint": "This object is aimed for in a popular court sport.",
       "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Music lovers gather for a multi-day outdoor event.",
-      "length": 8
+      "word": "SEQUEL",
+      "hint": "Many blockbuster films often get a follow-up to their story.",
+      "length": 6
     },
     "tech_science": {
       "word": "ROBOTS",
-      "hint": "They're getting smarter and more integrated into our daily lives.",
+      "hint": "They are increasingly used in manufacturing and even daily life, often with artificial intelligence.",
       "length": 6
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Global leaders are meeting to discuss Earth's changing weather patterns.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "World leaders often gather at high-level meetings to discuss global issues.",
+      "length": 6
     }
   }
 }
