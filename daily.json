@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "categories": {
     "sports": {
-      "word": "BASKET",
-      "hint": "This object is aimed for in a popular court sport.",
-      "length": 6
+      "word": "OLYMPICS",
+      "hint": "Global multi-sport event returning soon.",
+      "length": 8
     },
     "pop_culture": {
       "word": "SEQUEL",
-      "hint": "Many blockbuster films often get a follow-up to their story.",
+      "hint": "Another installment in a beloved movie series.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROBOTS",
-      "hint": "They are increasingly used in manufacturing and even daily life, often with artificial intelligence.",
-      "length": 6
+      "word": "ROBOTICS",
+      "hint": "The field of designing and building automated machines.",
+      "length": 8
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders often gather at high-level meetings to discuss global issues.",
+      "word": "TREATY",
+      "hint": "An international agreement signed by multiple nations.",
       "length": 6
     }
   }
