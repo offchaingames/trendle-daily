@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "categories": {
     "sports": {
-      "word": "OLYMPICS",
-      "hint": "Global multi-sport event returning soon.",
-      "length": 8
+      "word": "WIMBLES",
+      "hint": "The grass courts of London are calling for this annual major event.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Another installment in a beloved movie series.",
-      "length": 6
-    },
-    "tech_science": {
-      "word": "ROBOTICS",
-      "hint": "The field of designing and building automated machines.",
+      "word": "FESTIVAL",
+      "hint": "Thousands are gathering for music, art, and good vibes this summer.",
       "length": 8
     },
+    "tech_science": {
+      "word": "MARS",
+      "hint": "The red planet is once again a focus for humanity's next giant leap.",
+      "length": 4
+    },
     "major_news": {
-      "word": "TREATY",
-      "hint": "An international agreement signed by multiple nations.",
+      "word": "SUMMIT",
+      "hint": "World leaders convene to tackle pressing global challenges in this high-level meeting.",
       "length": 6
     }
   }
