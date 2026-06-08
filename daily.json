@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "categories": {
     "sports": {
-      "word": "WIMBLES",
-      "hint": "The grass courts of London are calling for this annual major event.",
-      "length": 7
+      "word": "SOCCER",
+      "hint": "The beautiful game's global tournament is heating up!",
+      "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Thousands are gathering for music, art, and good vibes this summer.",
-      "length": 8
+      "word": "CHART",
+      "hint": "Which song is topping the music rankings this week?",
+      "length": 5
     },
     "tech_science": {
-      "word": "MARS",
-      "hint": "The red planet is once again a focus for humanity's next giant leap.",
-      "length": 4
+      "word": "ROBOTS",
+      "hint": "Increasingly doing tasks once thought only for humans.",
+      "length": 6
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders convene to tackle pressing global challenges in this high-level meeting.",
-      "length": 6
+      "word": "ELECTION",
+      "hint": "Many countries are preparing to cast their ballots this year.",
+      "length": 8
     }
   }
 }
