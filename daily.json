@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "The beautiful game's global tournament is heating up!",
+      "word": "FINALS",
+      "hint": "The ultimate showdown to crown a champion in many major leagues.",
       "length": 6
     },
     "pop_culture": {
-      "word": "CHART",
-      "hint": "Which song is topping the music rankings this week?",
-      "length": 5
+      "word": "FESTIVAL",
+      "hint": "Music lovers gather for multiple acts at this outdoor event.",
+      "length": 8
     },
     "tech_science": {
-      "word": "ROBOTS",
-      "hint": "Increasingly doing tasks once thought only for humans.",
-      "length": 6
+      "word": "MARS",
+      "hint": "The red planet, a target for future human missions and current rover exploration.",
+      "length": 4
     },
     "major_news": {
-      "word": "ELECTION",
-      "hint": "Many countries are preparing to cast their ballots this year.",
-      "length": 8
+      "word": "SUMMIT",
+      "hint": "Leaders from around the world gather to discuss pressing global issues.",
+      "length": 6
     }
   }
 }
