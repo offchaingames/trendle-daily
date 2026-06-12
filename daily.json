@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "categories": {
     "sports": {
-      "word": "CANADA",
-      "hint": "This North American nation is co-hosting the biggest global football tournament!",
+      "word": "SOCCER",
+      "hint": "The global game reaching its climax in North America.",
       "length": 6
     },
     "pop_culture": {
-      "word": "BEATLE",
-      "hint": "The Fab Four's timeless appeal could be getting a fresh look with a new series.",
+      "word": "SEQUEL",
+      "hint": "Another installment of that beloved cinematic universe hits theaters.",
       "length": 6
     },
     "tech_science": {
-      "word": "MARS",
-      "hint": "Humanity continues to gaze upon the red planet with future missions in mind.",
+      "word": "CHIP",
+      "hint": "The tiny brain powering the next generation of smart devices.",
       "length": 4
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Global discussions heat up over the changing atmospheric conditions.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "World leaders gather to tackle the planet's biggest challenges.",
+      "length": 6
     }
   }
 }
