@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "categories": {
     "sports": {
       "word": "SOCCER",
-      "hint": "The global game reaching its climax in North America.",
+      "hint": "Fans worldwide are glued to screens as the biggest international tournament kicks off across three nations.",
       "length": 6
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Another installment of that beloved cinematic universe hits theaters.",
-      "length": 6
+      "word": "FESTIVAL",
+      "hint": "Thousands are flocking to open fields for a weekend of live music and vibrant art installations.",
+      "length": 8
     },
     "tech_science": {
-      "word": "CHIP",
-      "hint": "The tiny brain powering the next generation of smart devices.",
-      "length": 4
+      "word": "FUSION",
+      "hint": "Scientists are buzzing about a significant step forward in generating clean, limitless energy.",
+      "length": 6
     },
     "major_news": {
       "word": "SUMMIT",
-      "hint": "World leaders gather to tackle the planet's biggest challenges.",
+      "hint": "World leaders are gathering in a critical meeting to discuss global security and economic stability.",
       "length": 6
     }
   }
