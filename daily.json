@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "Fans worldwide are glued to screens as the biggest international tournament kicks off across three nations.",
+      "word": "BRAZIL",
+      "hint": "This South American football giant is always a favorite in the global tournament.",
       "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Thousands are flocking to open fields for a weekend of live music and vibrant art installations.",
-      "length": 8
+      "word": "SEQUEL",
+      "hint": "A much-anticipated follow-up to a popular film is hitting cinemas.",
+      "length": 6
     },
     "tech_science": {
-      "word": "FUSION",
-      "hint": "Scientists are buzzing about a significant step forward in generating clean, limitless energy.",
-      "length": 6
+      "word": "ROVER",
+      "hint": "This robotic vehicle continues to explore the Martian surface.",
+      "length": 5
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders are gathering in a critical meeting to discuss global security and economic stability.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "World leaders meet again to discuss the pressing environmental challenges facing the planet.",
+      "length": 7
     }
   }
 }
