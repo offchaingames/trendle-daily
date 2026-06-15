@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "categories": {
     "sports": {
-      "word": "BRAZIL",
-      "hint": "This South American football giant is always a favorite in the global tournament.",
+      "word": "SOCCER",
+      "hint": "This global tournament is just two years away from North America, generating buzz.",
       "length": 6
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "A much-anticipated follow-up to a popular film is hitting cinemas.",
-      "length": 6
+      "word": "FESTIVAL",
+      "hint": "Thousands flock to these outdoor gatherings for music and good vibes.",
+      "length": 8
     },
     "tech_science": {
-      "word": "ROVER",
-      "hint": "This robotic vehicle continues to explore the Martian surface.",
-      "length": 5
+      "word": "ROBOTS",
+      "hint": "These automated helpers are becoming smarter and more common in many industries.",
+      "length": 6
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "World leaders meet again to discuss the pressing environmental challenges facing the planet.",
-      "length": 7
+      "word": "ELECTION",
+      "hint": "Many nations are preparing for citizens to cast their votes.",
+      "length": 8
     }
   }
 }
