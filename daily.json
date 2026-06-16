@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "This global tournament is just two years away from North America, generating buzz.",
+      "word": "FINALS",
+      "hint": "Championship series deciding the best team.",
       "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Thousands flock to these outdoor gatherings for music and good vibes.",
-      "length": 8
+      "word": "PODCAST",
+      "hint": "Popular audio show available on demand.",
+      "length": 7
     },
     "tech_science": {
-      "word": "ROBOTS",
-      "hint": "These automated helpers are becoming smarter and more common in many industries.",
-      "length": 6
+      "word": "ROBOT",
+      "hint": "An automated machine often designed to perform specific tasks.",
+      "length": 5
     },
     "major_news": {
-      "word": "ELECTION",
-      "hint": "Many nations are preparing for citizens to cast their votes.",
-      "length": 8
+      "word": "CLIMATE",
+      "hint": "The Earth's long-term weather patterns, a topic of ongoing global concern.",
+      "length": 7
     }
   }
 }
