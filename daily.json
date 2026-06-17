@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "categories": {
     "sports": {
-      "word": "FINALS",
-      "hint": "Championship series deciding the best team.",
+      "word": "HOCKEY",
+      "hint": "Ice rink championship trophy.",
       "length": 6
     },
     "pop_culture": {
-      "word": "PODCAST",
-      "hint": "Popular audio show available on demand.",
-      "length": 7
+      "word": "FESTIVAL",
+      "hint": "Outdoor gathering for music and arts lovers.",
+      "length": 8
     },
     "tech_science": {
-      "word": "ROBOT",
-      "hint": "An automated machine often designed to perform specific tasks.",
-      "length": 5
+      "word": "ROBOTS",
+      "hint": "Autonomous machines performing tasks.",
+      "length": 6
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "The Earth's long-term weather patterns, a topic of ongoing global concern.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "A high-level meeting of world leaders.",
+      "length": 6
     }
   }
 }
