@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "categories": {
     "sports": {
-      "word": "HOCKEY",
-      "hint": "Ice rink championship trophy.",
+      "word": "WINNER",
+      "hint": "The one who claims victory in the championship game.",
       "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Outdoor gathering for music and arts lovers.",
-      "length": 8
-    },
-    "tech_science": {
-      "word": "ROBOTS",
-      "hint": "Autonomous machines performing tasks.",
+      "word": "SCREEN",
+      "hint": "Where you watch the highly anticipated sequel.",
       "length": 6
     },
+    "tech_science": {
+      "word": "ORBIT",
+      "hint": "The path a new satellite takes around Earth.",
+      "length": 5
+    },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "A high-level meeting of world leaders.",
+      "word": "CRISIS",
+      "hint": "A pressing global issue demanding immediate attention.",
       "length": 6
     }
   }
