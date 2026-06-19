@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "categories": {
     "sports": {
-      "word": "WINNER",
-      "hint": "The one who claims victory in the championship game.",
+      "word": "SOCCER",
+      "hint": "The beautiful game's biggest global tournament is drawing fans across North America.",
       "length": 6
     },
     "pop_culture": {
-      "word": "SCREEN",
-      "hint": "Where you watch the highly anticipated sequel.",
+      "word": "SERIES",
+      "hint": "Binge-watchers are captivated by the latest must-see drama everyone is talking about.",
       "length": 6
     },
     "tech_science": {
-      "word": "ORBIT",
-      "hint": "The path a new satellite takes around Earth.",
-      "length": 5
+      "word": "QUANTUM",
+      "hint": "Scientists are pushing the boundaries of computing with this mind-bending field.",
+      "length": 7
     },
     "major_news": {
-      "word": "CRISIS",
-      "hint": "A pressing global issue demanding immediate attention.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "World leaders gather to discuss urgent actions on our planet's changing conditions.",
+      "length": 7
     }
   }
 }
