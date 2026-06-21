@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "categories": {
     "sports": {
-      "word": "BASKET",
-      "hint": "The championship series for professional hoops is reaching its exciting conclusion!",
-      "length": 6
+      "word": "PLAYOFFS",
+      "hint": "The high-stakes postseason where champions are crowned across various leagues.",
+      "length": 8
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Audiences are flocking to theaters for the highly anticipated follow-up to last year's biggest sci-fi hit.",
+      "word": "TIKTOK",
+      "hint": "The short-form video app that continues to dominate social media trends and viral challenges.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROCKET",
-      "hint": "A private company has just launched its heaviest payload yet into Earth orbit, signaling new eras in space commerce.",
-      "length": 6
+      "word": "ARTEMIS",
+      "hint": "NASA's ambitious lunar exploration program aiming to return humans to the moon.",
+      "length": 7
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders are gathering to discuss critical global challenges, from economic stability to peace initiatives.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "The ongoing global discussion and efforts regarding environmental changes and sustainability.",
+      "length": 7
     }
   }
 }
