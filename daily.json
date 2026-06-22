@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "categories": {
     "sports": {
-      "word": "PLAYOFFS",
-      "hint": "The high-stakes postseason where champions are crowned across various leagues.",
+      "word": "CHAMPION",
+      "hint": "The victor in a fiercely contested tournament.",
       "length": 8
     },
     "pop_culture": {
-      "word": "TIKTOK",
-      "hint": "The short-form video app that continues to dominate social media trends and viral challenges.",
-      "length": 6
+      "word": "ALBUM",
+      "hint": "A highly anticipated musical collection just dropped.",
+      "length": 5
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA's ambitious lunar exploration program aiming to return humans to the moon.",
-      "length": 7
+      "word": "GENOME",
+      "hint": "Scientists are mapping out the blueprints of life with new speed.",
+      "length": 6
     },
     "major_news": {
       "word": "CLIMATE",
-      "hint": "The ongoing global discussion and efforts regarding environmental changes and sustainability.",
+      "hint": "Urgent discussions continue on our planet's changing conditions.",
       "length": 7
     }
   }
