@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "categories": {
     "sports": {
-      "word": "CHAMPION",
-      "hint": "The victor in a fiercely contested tournament.",
-      "length": 8
-    },
-    "pop_culture": {
-      "word": "ALBUM",
-      "hint": "A highly anticipated musical collection just dropped.",
-      "length": 5
-    },
-    "tech_science": {
-      "word": "GENOME",
-      "hint": "Scientists are mapping out the blueprints of life with new speed.",
+      "word": "SOCCER",
+      "hint": "Global football fever reaches its peak this summer.",
       "length": 6
     },
-    "major_news": {
-      "word": "CLIMATE",
-      "hint": "Urgent discussions continue on our planet's changing conditions.",
+    "pop_culture": {
+      "word": "FESTIVAL",
+      "hint": "A legendary summer music event known for its iconic stages and headliners.",
+      "length": 8
+    },
+    "tech_science": {
+      "word": "QUANTUM",
+      "hint": "This type of computing promises revolutionary speed with its bizarre physics.",
       "length": 7
+    },
+    "major_news": {
+      "word": "SUMMIT",
+      "hint": "World leaders gather for crucial discussions on global policy and cooperation.",
+      "length": 6
     }
   }
 }
