@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-26",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "Global football fever reaches its peak this summer.",
-      "length": 6
+      "word": "STADIUM",
+      "hint": "Where fans gather to witness epic clashes during the global football championship.",
+      "length": 7
     },
     "pop_culture": {
       "word": "FESTIVAL",
-      "hint": "A legendary summer music event known for its iconic stages and headliners.",
+      "hint": "Thousands are flocking to experience live music and art at this annual summer gathering.",
       "length": 8
     },
     "tech_science": {
       "word": "QUANTUM",
-      "hint": "This type of computing promises revolutionary speed with its bizarre physics.",
+      "hint": "Scientists are pushing the boundaries of computation with this mind-bending field of physics.",
       "length": 7
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders gather for crucial discussions on global policy and cooperation.",
+      "word": "TREATY",
+      "hint": "Nations worldwide just signed a landmark agreement to address critical global challenges.",
       "length": 6
     }
   }
