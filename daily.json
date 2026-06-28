@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "categories": {
     "sports": {
-      "word": "FIFA",
-      "hint": "Global soccer's biggest tournament is on everyone's mind!",
-      "length": 4
+      "word": "FINAL",
+      "hint": "The decisive match where a champion is crowned.",
+      "length": 5
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Many fans are eagerly awaiting the next installment of their favorite film series.",
-      "length": 6
+      "word": "ALBUM",
+      "hint": "A highly anticipated collection of new songs just dropped by a global superstar.",
+      "length": 5
     },
     "tech_science": {
       "word": "QUANTUM",
-      "hint": "Scientists are exploring this bizarre realm to create super-fast computers.",
+      "hint": "Scientists are making breakthroughs in this advanced field of computing.",
       "length": 7
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "The ongoing global conversation about our planet's future and environmental changes.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "World leaders are gathering to discuss urgent global challenges.",
+      "length": 6
     }
   }
 }
