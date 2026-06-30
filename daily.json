@@ -1,24 +1,24 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "categories": {
     "sports": {
-      "word": "FUTBOL",
-      "hint": "The global spectacle of the beautiful game's biggest tournament is underway!",
+      "word": "SOCCER",
+      "hint": "The beautiful game's global championship is in full swing.",
       "length": 6
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Moviegoers are eager to see the next installment in their favorite film franchise.",
-      "length": 6
+      "word": "FESTIVAL",
+      "hint": "Summer vibes are in full swing as fans gather for a huge music and arts event.",
+      "length": 8
     },
     "tech_science": {
-      "word": "QUANTUM",
-      "hint": "Breakthroughs in this computing field promise to revolutionize processing power.",
-      "length": 7
+      "word": "FUSION",
+      "hint": "Scientists are nearing a breakthrough for endless, clean energy.",
+      "length": 6
     },
     "major_news": {
       "word": "CLIMATE",
-      "hint": "Nations are convening to address the urgent environmental changes affecting our world.",
+      "hint": "Global efforts intensify to combat the planet's warming trends.",
       "length": 7
     }
   }
