@@ -1,25 +1,25 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "The beautiful game's global championship is in full swing.",
-      "length": 6
+      "word": "TOURNEY",
+      "hint": "A concentrated series of matches deciding a champion.",
+      "length": 7
     },
     "pop_culture": {
       "word": "FESTIVAL",
-      "hint": "Summer vibes are in full swing as fans gather for a huge music and arts event.",
+      "hint": "A large gathering for music, film, or arts, popular during the summer months.",
       "length": 8
     },
     "tech_science": {
-      "word": "FUSION",
-      "hint": "Scientists are nearing a breakthrough for endless, clean energy.",
-      "length": 6
+      "word": "VIRTUAL",
+      "hint": "It's how many now experience simulated realities or meetings online.",
+      "length": 7
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Global efforts intensify to combat the planet's warming trends.",
-      "length": 7
+      "word": "POLITICS",
+      "hint": "The art and science of government, often discussed in news cycles.",
+      "length": 8
     }
   }
 }
