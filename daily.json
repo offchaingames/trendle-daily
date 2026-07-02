@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "categories": {
     "sports": {
-      "word": "TOURNEY",
-      "hint": "A concentrated series of matches deciding a champion.",
-      "length": 7
+      "word": "TENNIS",
+      "hint": "Players serve and volley on grass courts in London.",
+      "length": 6
     },
     "pop_culture": {
       "word": "FESTIVAL",
-      "hint": "A large gathering for music, film, or arts, popular during the summer months.",
+      "hint": "Large outdoor events with multiple stages and many performers.",
       "length": 8
     },
     "tech_science": {
-      "word": "VIRTUAL",
-      "hint": "It's how many now experience simulated realities or meetings online.",
-      "length": 7
+      "word": "GENOMICS",
+      "hint": "The study of an organism's complete set of DNA.",
+      "length": 8
     },
     "major_news": {
-      "word": "POLITICS",
-      "hint": "The art and science of government, often discussed in news cycles.",
-      "length": 8
+      "word": "SUMMIT",
+      "hint": "World leaders gather to discuss pressing international issues.",
+      "length": 6
     }
   }
 }
