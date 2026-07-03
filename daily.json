@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "categories": {
     "sports": {
-      "word": "TENNIS",
-      "hint": "Players serve and volley on grass courts in London.",
-      "length": 6
+      "word": "GOAL",
+      "hint": "The ultimate objective in a soccer match during the World Cup.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Large outdoor events with multiple stages and many performers.",
-      "length": 8
+      "word": "ALBUM",
+      "hint": "A pop star's highly anticipated music collection released this summer.",
+      "length": 5
     },
     "tech_science": {
-      "word": "GENOMICS",
-      "hint": "The study of an organism's complete set of DNA.",
-      "length": 8
+      "word": "ROBOT",
+      "hint": "An advanced automaton capable of performing complex tasks autonomously.",
+      "length": 5
     },
     "major_news": {
       "word": "SUMMIT",
-      "hint": "World leaders gather to discuss pressing international issues.",
+      "hint": "World leaders gather for crucial discussions on global climate initiatives.",
       "length": 6
     }
   }
