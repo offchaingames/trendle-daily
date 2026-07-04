@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "categories": {
     "sports": {
-      "word": "GOAL",
-      "hint": "The ultimate objective in a soccer match during the World Cup.",
-      "length": 4
+      "word": "STADIUM",
+      "hint": "Where the biggest matches of the global football tournament are held.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "ALBUM",
-      "hint": "A pop star's highly anticipated music collection released this summer.",
-      "length": 5
+      "word": "SEQUEL",
+      "hint": "The next chapter in a popular film franchise.",
+      "length": 6
     },
     "tech_science": {
-      "word": "ROBOT",
-      "hint": "An advanced automaton capable of performing complex tasks autonomously.",
+      "word": "ROVER",
+      "hint": "A robotic explorer journeying across another planet's surface.",
       "length": 5
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders gather for crucial discussions on global climate initiatives.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "A worldwide concern involving atmospheric changes and weather patterns.",
+      "length": 7
     }
   }
 }
