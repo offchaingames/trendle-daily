@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "categories": {
     "sports": {
-      "word": "STADIUM",
-      "hint": "Where the biggest matches of the global football tournament are held.",
-      "length": 7
-    },
-    "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "The next chapter in a popular film franchise.",
+      "word": "TENNIS",
+      "hint": "Players serve up excitement on grass courts this month.",
       "length": 6
     },
+    "pop_culture": {
+      "word": "CONCERT",
+      "hint": "Fans flock to arenas to see their favorite musicians perform live.",
+      "length": 7
+    },
     "tech_science": {
-      "word": "ROVER",
-      "hint": "A robotic explorer journeying across another planet's surface.",
-      "length": 5
+      "word": "GADGET",
+      "hint": "A sleek new device promises to revolutionize personal computing.",
+      "length": 6
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "A worldwide concern involving atmospheric changes and weather patterns.",
-      "length": 7
+      "word": "TREATY",
+      "hint": "Nations sign a historic accord aiming for lasting peace.",
+      "length": 6
     }
   }
 }
