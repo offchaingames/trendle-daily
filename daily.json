@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "categories": {
     "sports": {
-      "word": "TENNIS",
-      "hint": "Players serve up excitement on grass courts this month.",
+      "word": "BRAZIL",
+      "hint": "This nation is often a favorite to lift the global football trophy.",
       "length": 6
     },
     "pop_culture": {
-      "word": "CONCERT",
-      "hint": "Fans flock to arenas to see their favorite musicians perform live.",
+      "word": "BEYONCE",
+      "hint": "Queen B might have just dropped a new album or announced a massive tour.",
       "length": 7
     },
     "tech_science": {
-      "word": "GADGET",
-      "hint": "A sleek new device promises to revolutionize personal computing.",
+      "word": "ROBOTS",
+      "hint": "They're getting smarter and taking on more human-like tasks in our future homes.",
       "length": 6
     },
     "major_news": {
-      "word": "TREATY",
-      "hint": "Nations sign a historic accord aiming for lasting peace.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "Discussions about the changing global weather patterns continue to dominate headlines.",
+      "length": 7
     }
   }
 }
