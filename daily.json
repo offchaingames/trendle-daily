@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "categories": {
     "sports": {
-      "word": "BRAZIL",
-      "hint": "This nation is often a favorite to lift the global football trophy.",
+      "word": "GOLFER",
+      "hint": "Swinging for success, this athlete navigates the fairways and greens.",
       "length": 6
     },
     "pop_culture": {
-      "word": "BEYONCE",
-      "hint": "Queen B might have just dropped a new album or announced a massive tour.",
-      "length": 7
+      "word": "SEQUEL",
+      "hint": "Fans are flocking to theaters for the continuation of a beloved cinematic story.",
+      "length": 6
     },
     "tech_science": {
-      "word": "ROBOTS",
-      "hint": "They're getting smarter and taking on more human-like tasks in our future homes.",
-      "length": 6
+      "word": "QUANTUM",
+      "hint": "This emerging field of computing promises revolutionary processing capabilities.",
+      "length": 7
     },
     "major_news": {
       "word": "CLIMATE",
-      "hint": "Discussions about the changing global weather patterns continue to dominate headlines.",
+      "hint": "Urgent discussions continue globally on the state of our planet's changing environment.",
       "length": 7
     }
   }
