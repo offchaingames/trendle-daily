@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "categories": {
     "sports": {
-      "word": "GOLFER",
-      "hint": "Swinging for success, this athlete navigates the fairways and greens.",
-      "length": 6
+      "word": "OLYMPICS",
+      "hint": "Global spectacle of athletic prowess, just wrapped up in Paris.",
+      "length": 8
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Fans are flocking to theaters for the continuation of a beloved cinematic story.",
-      "length": 6
+      "word": "SWIFTIE",
+      "hint": "A devoted fan of a certain pop superstar and her record-breaking Eras Tour.",
+      "length": 7
     },
     "tech_science": {
       "word": "QUANTUM",
-      "hint": "This emerging field of computing promises revolutionary processing capabilities.",
+      "hint": "Cutting-edge computing branch exploring subatomic particles for immense power.",
       "length": 7
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Urgent discussions continue globally on the state of our planet's changing environment.",
-      "length": 7
+      "word": "TREATY",
+      "hint": "An international agreement signed between nations for peace or cooperation.",
+      "length": 6
     }
   }
 }
