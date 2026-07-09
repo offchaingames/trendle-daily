@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "categories": {
     "sports": {
-      "word": "OLYMPICS",
-      "hint": "Global spectacle of athletic prowess, just wrapped up in Paris.",
-      "length": 8
+      "word": "TENNIS",
+      "hint": "The sport of aces and volleys, often played on grass courts in England.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "SWIFTIE",
-      "hint": "A devoted fan of a certain pop superstar and her record-breaking Eras Tour.",
+      "word": "PODCAST",
+      "hint": "Audio series exploding in popularity, perfect for your commute.",
       "length": 7
     },
     "tech_science": {
-      "word": "QUANTUM",
-      "hint": "Cutting-edge computing branch exploring subatomic particles for immense power.",
-      "length": 7
+      "word": "ROBOTICS",
+      "hint": "The field of designing and building automated machines.",
+      "length": 8
     },
     "major_news": {
-      "word": "TREATY",
-      "hint": "An international agreement signed between nations for peace or cooperation.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "The long-term weather patterns of a region, a hot topic for global policy.",
+      "length": 7
     }
   }
 }
