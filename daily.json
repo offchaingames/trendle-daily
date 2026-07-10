@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "categories": {
     "sports": {
-      "word": "TENNIS",
-      "hint": "The sport of aces and volleys, often played on grass courts in England.",
-      "length": 6
-    },
-    "pop_culture": {
-      "word": "PODCAST",
-      "hint": "Audio series exploding in popularity, perfect for your commute.",
-      "length": 7
-    },
-    "tech_science": {
-      "word": "ROBOTICS",
-      "hint": "The field of designing and building automated machines.",
+      "word": "CHAMPION",
+      "hint": "The ultimate winner of the global football tournament.",
       "length": 8
     },
-    "major_news": {
+    "pop_culture": {
+      "word": "FESTIVAL",
+      "hint": "Live music and good vibes filling the air this season.",
+      "length": 8
+    },
+    "tech_science": {
       "word": "CLIMATE",
-      "hint": "The long-term weather patterns of a region, a hot topic for global policy.",
+      "hint": "The focus of urgent scientific research and global talks.",
       "length": 7
+    },
+    "major_news": {
+      "word": "SUMMIT",
+      "hint": "World leaders gather to discuss critical global issues.",
+      "length": 6
     }
   }
 }
