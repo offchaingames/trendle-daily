@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "categories": {
     "sports": {
-      "word": "CHAMPION",
-      "hint": "The ultimate winner of the global football tournament.",
-      "length": 8
+      "word": "GROUPS",
+      "hint": "Teams are initially divided into these to compete for advancement in the world's biggest football tournament.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Live music and good vibes filling the air this season.",
-      "length": 8
+      "word": "SEQUEL",
+      "hint": "Many of summer's biggest movies are follow-ups to popular films.",
+      "length": 6
     },
     "tech_science": {
-      "word": "CLIMATE",
-      "hint": "The focus of urgent scientific research and global talks.",
+      "word": "ARTEMIS",
+      "hint": "NASA's ambitious mission to return humans to the lunar surface and establish a sustained presence.",
       "length": 7
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders gather to discuss critical global issues.",
-      "length": 6
+      "word": "WILDFIRE",
+      "hint": "Massive blazes fueled by dry conditions continue to devastate landscapes and communities across several continents.",
+      "length": 8
     }
   }
 }
