@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "categories": {
     "sports": {
-      "word": "GROUPS",
-      "hint": "Teams are initially divided into these to compete for advancement in the world's biggest football tournament.",
-      "length": 6
+      "word": "GOLD",
+      "hint": "The ultimate prize coveted by athletes on the global stage, often gleaming brightly.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "Many of summer's biggest movies are follow-ups to popular films.",
-      "length": 6
+      "word": "VIRAL",
+      "hint": "Spreading like wildfire across the internet, capturing everyone's attention instantly.",
+      "length": 5
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA's ambitious mission to return humans to the lunar surface and establish a sustained presence.",
-      "length": 7
+      "word": "FUSION",
+      "hint": "The promising energy source mimicking the sun, a clean power dream for the future.",
+      "length": 6
     },
     "major_news": {
-      "word": "WILDFIRE",
-      "hint": "Massive blazes fueled by dry conditions continue to devastate landscapes and communities across several continents.",
+      "word": "HEATWAVE",
+      "hint": "A period of unusually hot weather, often prompting health warnings and records to tumble.",
       "length": 8
     }
   }
