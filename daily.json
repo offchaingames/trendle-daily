@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "categories": {
     "sports": {
-      "word": "GOLD",
-      "hint": "The ultimate prize coveted by athletes on the global stage, often gleaming brightly.",
-      "length": 4
+      "word": "FINAL",
+      "hint": "The climactic match of the biggest global soccer tournament.",
+      "length": 5
     },
     "pop_culture": {
-      "word": "VIRAL",
-      "hint": "Spreading like wildfire across the internet, capturing everyone's attention instantly.",
+      "word": "ALBUM",
+      "hint": "A popular artist just released a new collection of songs.",
       "length": 5
     },
     "tech_science": {
       "word": "FUSION",
-      "hint": "The promising energy source mimicking the sun, a clean power dream for the future.",
+      "hint": "Scientists are getting closer to limitless, clean energy.",
       "length": 6
     },
     "major_news": {
-      "word": "HEATWAVE",
-      "hint": "A period of unusually hot weather, often prompting health warnings and records to tumble.",
-      "length": 8
+      "word": "CLIMATE",
+      "hint": "Urgent talks continue about the changing global weather patterns.",
+      "length": 7
     }
   }
 }
