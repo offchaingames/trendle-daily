@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "categories": {
     "sports": {
-      "word": "FINAL",
-      "hint": "The climactic match of the biggest global soccer tournament.",
-      "length": 5
+      "word": "STADIUM",
+      "hint": "Massive venues across North America welcome millions for the biggest football event.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "ALBUM",
-      "hint": "A popular artist just released a new collection of songs.",
-      "length": 5
+      "word": "FESTIVAL",
+      "hint": "Thousands gather to see their favorite musical acts under the summer sun.",
+      "length": 8
     },
     "tech_science": {
-      "word": "FUSION",
-      "hint": "Scientists are getting closer to limitless, clean energy.",
-      "length": 6
+      "word": "LUNAR",
+      "hint": "Humanity's return to Earth's closest celestial neighbor is a major focus for space agencies.",
+      "length": 5
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Urgent talks continue about the changing global weather patterns.",
+      "word": "DROUGHT",
+      "hint": "Persistent dry conditions plague agricultural regions and strain water resources.",
       "length": 7
     }
   }
