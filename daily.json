@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "categories": {
     "sports": {
-      "word": "STADIUM",
-      "hint": "Massive venues across North America welcome millions for the biggest football event.",
+      "word": "CYCLIST",
+      "hint": "Pedaling hard to victory in France's toughest race.",
       "length": 7
     },
     "pop_culture": {
       "word": "FESTIVAL",
-      "hint": "Thousands gather to see their favorite musical acts under the summer sun.",
+      "hint": "Thousands gather to see their favorite bands play live outdoors.",
       "length": 8
     },
     "tech_science": {
-      "word": "LUNAR",
-      "hint": "Humanity's return to Earth's closest celestial neighbor is a major focus for space agencies.",
-      "length": 5
+      "word": "FUSION",
+      "hint": "Scientists are trying to harness this powerful energy source from the stars.",
+      "length": 6
     },
     "major_news": {
-      "word": "DROUGHT",
-      "hint": "Persistent dry conditions plague agricultural regions and strain water resources.",
+      "word": "CLIMATE",
+      "hint": "Extreme weather events are a constant reminder of our planet's changing conditions.",
       "length": 7
     }
   }
