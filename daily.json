@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "categories": {
     "sports": {
-      "word": "CYCLIST",
-      "hint": "Pedaling hard to victory in France's toughest race.",
-      "length": 7
+      "word": "FIFA",
+      "hint": "Global soccer championship that will be held in North America this year.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Thousands gather to see their favorite bands play live outdoors.",
-      "length": 8
-    },
-    "tech_science": {
-      "word": "FUSION",
-      "hint": "Scientists are trying to harness this powerful energy source from the stars.",
+      "word": "SEQUEL",
+      "hint": "A highly anticipated follow-up film or book in a popular franchise.",
       "length": 6
     },
+    "tech_science": {
+      "word": "ROBOT",
+      "hint": "Automated machines making strides in manufacturing and service industries.",
+      "length": 5
+    },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Extreme weather events are a constant reminder of our planet's changing conditions.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "An important high-level meeting between world leaders to discuss global issues.",
+      "length": 6
     }
   }
 }
