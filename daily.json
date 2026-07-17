@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "categories": {
     "sports": {
-      "word": "FIFA",
-      "hint": "Global soccer championship that will be held in North America this year.",
-      "length": 4
+      "word": "CYCLING",
+      "hint": "Athletes endure grueling stages through France.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "A highly anticipated follow-up film or book in a popular franchise.",
-      "length": 6
+      "word": "EPISODE",
+      "hint": "The latest installment of a popular streaming drama.",
+      "length": 7
     },
     "tech_science": {
-      "word": "ROBOT",
-      "hint": "Automated machines making strides in manufacturing and service industries.",
-      "length": 5
+      "word": "ORBITER",
+      "hint": "A spacecraft designed to circle celestial bodies.",
+      "length": 7
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "An important high-level meeting between world leaders to discuss global issues.",
+      "word": "TREATY",
+      "hint": "Nations finalize an agreement for peace or cooperation.",
       "length": 6
     }
   }
