@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "categories": {
     "sports": {
-      "word": "CYCLING",
-      "hint": "Athletes endure grueling stages through France.",
+      "word": "STADIUM",
+      "hint": "Where millions gathered to witness the world's biggest soccer matches.",
       "length": 7
     },
     "pop_culture": {
-      "word": "EPISODE",
-      "hint": "The latest installment of a popular streaming drama.",
-      "length": 7
+      "word": "SEQUEL",
+      "hint": "The highly anticipated follow-up to a beloved superhero film shattered box office records.",
+      "length": 6
     },
     "tech_science": {
-      "word": "ORBITER",
-      "hint": "A spacecraft designed to circle celestial bodies.",
-      "length": 7
+      "word": "ORBIT",
+      "hint": "A private space company successfully launched its first tourism module into Earth's path.",
+      "length": 5
     },
     "major_news": {
-      "word": "TREATY",
-      "hint": "Nations finalize an agreement for peace or cooperation.",
+      "word": "SUMMIT",
+      "hint": "World leaders convened to discuss pressing global challenges.",
       "length": 6
     }
   }
