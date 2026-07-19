@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "categories": {
     "sports": {
-      "word": "STADIUM",
-      "hint": "Where millions gathered to witness the world's biggest soccer matches.",
-      "length": 7
+      "word": "FIFA",
+      "hint": "Global soccer tournament reaching its climax in North America.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "The highly anticipated follow-up to a beloved superhero film shattered box office records.",
-      "length": 6
+      "word": "FESTIVAL",
+      "hint": "Music lovers gather for a huge summer celebration of sound.",
+      "length": 8
     },
     "tech_science": {
-      "word": "ORBIT",
-      "hint": "A private space company successfully launched its first tourism module into Earth's path.",
-      "length": 5
+      "word": "FUSION",
+      "hint": "Scientists are closer to replicating the power of the sun for clean energy.",
+      "length": 6
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "World leaders convened to discuss pressing global challenges.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "World leaders discuss strategies to combat Earth's warming crisis.",
+      "length": 7
     }
   }
 }
