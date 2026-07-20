@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "categories": {
     "sports": {
-      "word": "FIFA",
-      "hint": "Global soccer tournament reaching its climax in North America.",
-      "length": 4
+      "word": "MEXICO",
+      "hint": "This North American co-host is celebrating record attendance for the global football tournament.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "FESTIVAL",
-      "hint": "Music lovers gather for a huge summer celebration of sound.",
-      "length": 8
+      "word": "ECHOES",
+      "hint": "This new streaming sci-fi drama with stunning visuals has everyone talking about its mind-bending plot twists.",
+      "length": 6
     },
     "tech_science": {
-      "word": "FUSION",
-      "hint": "Scientists are closer to replicating the power of the sun for clean energy.",
-      "length": 6
+      "word": "STATION",
+      "hint": "This new private research facility in low Earth orbit just welcomed its first civilian crew.",
+      "length": 7
     },
     "major_news": {
       "word": "CLIMATE",
-      "hint": "World leaders discuss strategies to combat Earth's warming crisis.",
+      "hint": "World leaders convened to announce a bold new plan to accelerate the transition to sustainable energy sources worldwide.",
       "length": 7
     }
   }
