@@ -1,24 +1,24 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "categories": {
     "sports": {
-      "word": "MEXICO",
-      "hint": "This North American co-host is celebrating record attendance for the global football tournament.",
+      "word": "SOCCER",
+      "hint": "The beautiful game, culminating in a global tournament every four years.",
       "length": 6
     },
     "pop_culture": {
-      "word": "ECHOES",
-      "hint": "This new streaming sci-fi drama with stunning visuals has everyone talking about its mind-bending plot twists.",
+      "word": "SEQUEL",
+      "hint": "Often a follow-up to a popular movie or TV show, trying to recapture the magic.",
       "length": 6
     },
     "tech_science": {
-      "word": "STATION",
-      "hint": "This new private research facility in low Earth orbit just welcomed its first civilian crew.",
-      "length": 7
+      "word": "ROBOTS",
+      "hint": "Intelligent machines taking on more tasks, from manufacturing to personal assistance.",
+      "length": 6
     },
     "major_news": {
       "word": "CLIMATE",
-      "hint": "World leaders convened to announce a bold new plan to accelerate the transition to sustainable energy sources worldwide.",
+      "hint": "Global discussions continue on Earth's changing weather patterns and environmental challenges.",
       "length": 7
     }
   }
