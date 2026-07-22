@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "categories": {
     "sports": {
-      "word": "SOCCER",
-      "hint": "The beautiful game, culminating in a global tournament every four years.",
+      "word": "TROPHY",
+      "hint": "The coveted prize lifted by the champions of global football.",
       "length": 6
     },
     "pop_culture": {
       "word": "SEQUEL",
-      "hint": "Often a follow-up to a popular movie or TV show, trying to recapture the magic.",
+      "hint": "The much-anticipated follow-up to a beloved film series hitting theaters.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROBOTS",
-      "hint": "Intelligent machines taking on more tasks, from manufacturing to personal assistance.",
-      "length": 6
+      "word": "MARS",
+      "hint": "Humanity's next giant leap for exploration and colonization efforts targets this red celestial body.",
+      "length": 4
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Global discussions continue on Earth's changing weather patterns and environmental challenges.",
-      "length": 7
+      "word": "SUMMIT",
+      "hint": "Global leaders convene to address pressing international issues and seek common ground.",
+      "length": 6
     }
   }
 }
