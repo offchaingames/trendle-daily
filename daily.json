@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "categories": {
     "sports": {
-      "word": "TROPHY",
-      "hint": "The coveted prize lifted by the champions of global football.",
+      "word": "MEXICO",
+      "hint": "One of the three North American nations co-hosting the biggest global football tournament.",
       "length": 6
     },
     "pop_culture": {
-      "word": "SEQUEL",
-      "hint": "The much-anticipated follow-up to a beloved film series hitting theaters.",
+      "word": "GLASTO",
+      "hint": "Iconic British music event, often held in late June, still generating buzz.",
       "length": 6
     },
     "tech_science": {
       "word": "MARS",
-      "hint": "Humanity's next giant leap for exploration and colonization efforts targets this red celestial body.",
+      "hint": "The red planet, target of recent successful rover landings and sample returns.",
       "length": 4
     },
     "major_news": {
-      "word": "SUMMIT",
-      "hint": "Global leaders convene to address pressing international issues and seek common ground.",
-      "length": 6
+      "word": "CLIMATE",
+      "hint": "Hot topic regarding our planet's changing weather patterns and global warming efforts.",
+      "length": 7
     }
   }
 }
