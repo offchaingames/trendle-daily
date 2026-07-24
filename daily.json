@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "categories": {
     "sports": {
-      "word": "MEXICO",
-      "hint": "One of the three North American nations co-hosting the biggest global football tournament.",
+      "word": "MBAPPE",
+      "hint": "Star forward whose hat-trick sealed a historic World Cup victory for his nation.",
       "length": 6
     },
     "pop_culture": {
-      "word": "GLASTO",
-      "hint": "Iconic British music event, often held in late June, still generating buzz.",
-      "length": 6
+      "word": "ADELE",
+      "hint": "Beloved singer-songwriter whose new album is dominating the global music charts.",
+      "length": 5
     },
     "tech_science": {
-      "word": "MARS",
-      "hint": "The red planet, target of recent successful rover landings and sample returns.",
-      "length": 4
+      "word": "ARTEMIS",
+      "hint": "NASA's lunar program prepares for its next crewed mission around the Moon.",
+      "length": 7
     },
     "major_news": {
-      "word": "CLIMATE",
-      "hint": "Hot topic regarding our planet's changing weather patterns and global warming efforts.",
-      "length": 7
+      "word": "SAFARI",
+      "hint": "Historic conservation efforts lead to a significant rebound in endangered wildlife populations in East Africa.",
+      "length": 6
     }
   }
 }
