@@ -2,24 +2,24 @@
   "date": "2026-07-24",
   "categories": {
     "sports": {
-      "word": "MBAPPE",
-      "hint": "Star forward whose hat-trick sealed a historic World Cup victory for his nation.",
-      "length": 6
+      "word": "SPAIN",
+      "hint": "Nation celebrating a historic victory in the global football championship, led by a young squad.",
+      "length": 5
     },
     "pop_culture": {
-      "word": "ADELE",
-      "hint": "Beloved singer-songwriter whose new album is dominating the global music charts.",
-      "length": 5
+      "word": "ODYSSEY",
+      "hint": "Christopher Nolan's highly anticipated new film released this month.",
+      "length": 7
     },
     "tech_science": {
       "word": "ARTEMIS",
-      "hint": "NASA's lunar program prepares for its next crewed mission around the Moon.",
+      "hint": "Historic crewed lunar flyby mission successfully completed earlier this year.",
       "length": 7
     },
     "major_news": {
-      "word": "SAFARI",
-      "hint": "Historic conservation efforts lead to a significant rebound in endangered wildlife populations in East Africa.",
-      "length": 6
+      "word": "AMERICA",
+      "hint": "Nation celebrates its 250th anniversary, marking the occasion with a time capsule burial.",
+      "length": 7
     }
   }
 }
