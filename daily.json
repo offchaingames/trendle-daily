@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "categories": {
     "sports": {
-      "word": "SPAIN",
-      "hint": "Nation celebrating a historic victory in the global football championship, led by a young squad.",
+      "word": "YAMAL",
+      "hint": "Teen football prodigy celebrated for his pivotal role in his national team's historic victory at the recent global tournament.",
       "length": 5
     },
     "pop_culture": {
-      "word": "ODYSSEY",
-      "hint": "Christopher Nolan's highly anticipated new film released this month.",
+      "word": "COMICON",
+      "hint": "Fans are buzzing after a weekend of groundbreaking trailers and major announcements from the year's biggest pop culture convention in San Diego.",
       "length": 7
     },
     "tech_science": {
       "word": "ARTEMIS",
-      "hint": "Historic crewed lunar flyby mission successfully completed earlier this year.",
+      "hint": "A groundbreaking mission successfully deployed a new lunar rover to explore the Moon's south pole for water ice, advancing human space exploration.",
       "length": 7
     },
     "major_news": {
-      "word": "AMERICA",
-      "hint": "Nation celebrates its 250th anniversary, marking the occasion with a time capsule burial.",
-      "length": 7
+      "word": "CORAL",
+      "hint": "Scientists announce a major success in a global initiative to restore endangered reef systems, showing unprecedented growth and resilience.",
+      "length": 5
     }
   }
 }
