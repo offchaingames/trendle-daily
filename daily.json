@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "categories": {
     "sports": {
-      "word": "SPAIN",
-      "hint": "Nation crowned champion of the global football tournament held across North America.",
-      "length": 5
+      "word": "KERR",
+      "hint": "British athlete shatters the long-standing world record for the mile run at the London Athletics Meet.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "MOANA",
-      "hint": "Beloved animated musical sequel hits theaters, continuing the adventures of a Polynesian heroine.",
-      "length": 5
-    },
-    "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA's lunar exploration program makes significant progress in its mission to send humans back to the Moon.",
+      "word": "MADONNA",
+      "hint": "The Queen of Pop makes a highly anticipated return with 'Confessions II,' her new studio album.",
       "length": 7
     },
+    "tech_science": {
+      "word": "WEBB",
+      "hint": "The advanced space telescope uncovers a giant exoplanet, Beta Pictoris d, hidden within a famous star system.",
+      "length": 4
+    },
     "major_news": {
-      "word": "MANGROVE",
-      "hint": "Coastal ecosystems are celebrated for a significant global recovery, offering hope for climate action.",
-      "length": 8
+      "word": "GIZA",
+      "hint": "Egyptologist Zahi Hawass confirms a 2026 public opening for a newly discovered, 30-meter secret chamber in the Great Pyramid.",
+      "length": 4
     }
   }
 }
