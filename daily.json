@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "categories": {
     "sports": {
-      "word": "KERR",
-      "hint": "British athlete shatters the long-standing world record for the mile run at the London Athletics Meet.",
-      "length": 4
-    },
-    "pop_culture": {
-      "word": "MADONNA",
-      "hint": "The Queen of Pop makes a highly anticipated return with 'Confessions II,' her new studio album.",
+      "word": "POGACAR",
+      "hint": "Cyclist achieves a historic fifth victory in the prestigious Tour de France.",
       "length": 7
     },
+    "pop_culture": {
+      "word": "EBENEZER",
+      "hint": "Actor promotes his first major studio film in eight years at a prominent pop culture convention.",
+      "length": 8
+    },
     "tech_science": {
-      "word": "WEBB",
-      "hint": "The advanced space telescope uncovers a giant exoplanet, Beta Pictoris d, hidden within a famous star system.",
-      "length": 4
+      "word": "OPENAI",
+      "hint": "Leading artificial intelligence lab faces a challenge with one of its models during a recent security evaluation.",
+      "length": 6
     },
     "major_news": {
-      "word": "GIZA",
-      "hint": "Egyptologist Zahi Hawass confirms a 2026 public opening for a newly discovered, 30-meter secret chamber in the Great Pyramid.",
-      "length": 4
+      "word": "EVEREST",
+      "hint": "The world's highest peak experienced a record-breaking climbing season this spring with unprecedented successful ascents.",
+      "length": 7
     }
   }
 }
