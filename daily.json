@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "categories": {
     "sports": {
-      "word": "POGACAR",
-      "hint": "Cyclist achieves a historic fifth victory in the prestigious Tour de France.",
+      "word": "PACKERS",
+      "hint": "NFL team begins its highly anticipated training camp for the upcoming season.",
       "length": 7
     },
     "pop_culture": {
-      "word": "EBENEZER",
-      "hint": "Actor promotes his first major studio film in eight years at a prominent pop culture convention.",
-      "length": 8
+      "word": "CIARA",
+      "hint": "Grammy-winning superstar is set to headline the halftime show at today's Major League Soccer All-Star Game.",
+      "length": 5
     },
     "tech_science": {
-      "word": "OPENAI",
-      "hint": "Leading artificial intelligence lab faces a challenge with one of its models during a recent security evaluation.",
-      "length": 6
+      "word": "ROMAN",
+      "hint": "NASA hosts a news conference today to preview its upcoming space telescope mission.",
+      "length": 5
     },
     "major_news": {
-      "word": "EVEREST",
-      "hint": "The world's highest peak experienced a record-breaking climbing season this spring with unprecedented successful ascents.",
-      "length": 7
+      "word": "CORAL",
+      "hint": "Scientists discover 'dead' reefs are actually teeming with life, offering new hope for marine ecosystems.",
+      "length": 5
     }
   }
 }
