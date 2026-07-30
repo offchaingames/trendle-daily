@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "categories": {
     "sports": {
-      "word": "PACKERS",
-      "hint": "NFL team begins its highly anticipated training camp for the upcoming season.",
-      "length": 7
+      "word": "OHTANI",
+      "hint": "The celebrated slugger continues to rewrite baseball history with another remarkable feat at the plate.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "CIARA",
-      "hint": "Grammy-winning superstar is set to headline the halftime show at today's Major League Soccer All-Star Game.",
+      "word": "ADELE",
+      "hint": "Fans rejoice as the soulful singer's highly anticipated new album debuts to critical acclaim and massive sales.",
       "length": 5
     },
     "tech_science": {
-      "word": "ROMAN",
-      "hint": "NASA hosts a news conference today to preview its upcoming space telescope mission.",
-      "length": 5
+      "word": "SPACEX",
+      "hint": "The pioneering space company successfully deploys a new constellation of satellites, expanding global connectivity.",
+      "length": 6
     },
     "major_news": {
-      "word": "CORAL",
-      "hint": "Scientists discover 'dead' reefs are actually teeming with life, offering new hope for marine ecosystems.",
-      "length": 5
+      "word": "AMAZON",
+      "hint": "A landmark global conservation effort is launched to safeguard and restore vast areas of the world's largest rainforest.",
+      "length": 6
     }
   }
 }
