@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "categories": {
     "sports": {
-      "word": "OHTANI",
-      "hint": "The celebrated slugger continues to rewrite baseball history with another remarkable feat at the plate.",
+      "word": "SINNER",
+      "hint": "Dominant Italian tennis star who recently secured his second consecutive Gentlemen's Singles title at Wimbledon.",
       "length": 6
     },
     "pop_culture": {
-      "word": "ADELE",
-      "hint": "Fans rejoice as the soulful singer's highly anticipated new album debuts to critical acclaim and massive sales.",
-      "length": 5
+      "word": "ARIANA",
+      "hint": "Pop superstar with a highly anticipated new album, 'Petals,' dropping today.",
+      "length": 6
     },
     "tech_science": {
-      "word": "SPACEX",
-      "hint": "The pioneering space company successfully deploys a new constellation of satellites, expanding global connectivity.",
-      "length": 6
+      "word": "ROMAN",
+      "hint": "NASA's next-generation space telescope preparing for an August launch to explore dark matter and exoplanets.",
+      "length": 5
     },
     "major_news": {
-      "word": "AMAZON",
-      "hint": "A landmark global conservation effort is launched to safeguard and restore vast areas of the world's largest rainforest.",
-      "length": 6
+      "word": "LIBERTY",
+      "hint": "Celebrations are underway for a significant 250th anniversary of American independence.",
+      "length": 7
     }
   }
 }
