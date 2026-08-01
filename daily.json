@@ -1,25 +1,25 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "categories": {
     "sports": {
-      "word": "SINNER",
-      "hint": "Dominant Italian tennis star who recently secured his second consecutive Gentlemen's Singles title at Wimbledon.",
-      "length": 6
+      "word": "YANKEES",
+      "hint": "The New York baseball team is making headlines with roster moves and their push for a division lead in the summer season.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "ARIANA",
-      "hint": "Pop superstar with a highly anticipated new album, 'Petals,' dropping today.",
+      "word": "POTTER",
+      "hint": "A beloved wizarding film series celebrates a significant 25th-anniversary milestone with special screenings this August.",
       "length": 6
     },
     "tech_science": {
-      "word": "ROMAN",
-      "hint": "NASA's next-generation space telescope preparing for an August launch to explore dark matter and exoplanets.",
-      "length": 5
+      "word": "ARTEMIS",
+      "hint": "NASA's lunar exploration program continues to advance, with recent news on astronaut training and mission preparations.",
+      "length": 7
     },
     "major_news": {
-      "word": "LIBERTY",
-      "hint": "Celebrations are underway for a significant 250th anniversary of American independence.",
-      "length": 7
+      "word": "AMAZON",
+      "hint": "Reports indicate a positive trend with deforestation rates in the world's largest rainforest falling to a decade low.",
+      "length": 6
     }
   }
 }
