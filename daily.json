@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "categories": {
     "sports": {
-      "word": "EALA",
-      "hint": "Rising tennis star defeats a Grand Slam champion to reach a major tournament final.",
-      "length": 4
+      "word": "DJOKOVIC",
+      "hint": "Tennis legend extends his record-breaking Grand Slam tally with a dominant victory at a major hard-court tournament.",
+      "length": 8
     },
     "pop_culture": {
-      "word": "BEYONCE",
-      "hint": "Pop superstar surprises fans by officially releasing a long-awaited track originally recorded years ago.",
-      "length": 7
+      "word": "SWIFT",
+      "hint": "Pop icon's record-breaking global stadium tour kicks off its highly anticipated European leg, selling out venues in minutes.",
+      "length": 5
     },
     "tech_science": {
-      "word": "WEBB",
-      "hint": "Advanced space telescope reveals a previously hidden giant exoplanet, Beta Pictoris d, using a new detection method.",
-      "length": 4
+      "word": "QUANTUM",
+      "hint": "Scientists announce a major breakthrough in computing, achieving a new milestone in processing power and data security.",
+      "length": 7
     },
     "major_news": {
-      "word": "EVEREST",
-      "hint": "The world's highest peak saw a record-breaking number of successful ascents during its 2026 climbing season.",
-      "length": 7
+      "word": "PANDAS",
+      "hint": "A global conservation effort celebrates a historic milestone, bringing the beloved species further from the brink of extinction.",
+      "length": 6
     }
   }
 }
