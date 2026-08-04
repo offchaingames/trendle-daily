@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "categories": {
     "sports": {
-      "word": "DJOKOVIC",
-      "hint": "Tennis legend extends his record-breaking Grand Slam tally with a dominant victory at a major hard-court tournament.",
-      "length": 8
-    },
-    "pop_culture": {
-      "word": "SWIFT",
-      "hint": "Pop icon's record-breaking global stadium tour kicks off its highly anticipated European leg, selling out venues in minutes.",
-      "length": 5
-    },
-    "tech_science": {
-      "word": "QUANTUM",
-      "hint": "Scientists announce a major breakthrough in computing, achieving a new milestone in processing power and data security.",
+      "word": "ALCARAZ",
+      "hint": "Defending champion prepares for another Grand Slam challenge in New York.",
       "length": 7
     },
-    "major_news": {
-      "word": "PANDAS",
-      "hint": "A global conservation effort celebrates a historic milestone, bringing the beloved species further from the brink of extinction.",
+    "pop_culture": {
+      "word": "RODRIGO",
+      "hint": "Pop superstar's latest album continues to dominate music charts worldwide.",
+      "length": 7
+    },
+    "tech_science": {
+      "word": "GEMINI",
+      "hint": "A major AI model from Google receives significant upgrades, enhancing its advanced capabilities.",
       "length": 6
+    },
+    "major_news": {
+      "word": "ECLIPSE",
+      "hint": "Skygazers prepare for a rare celestial event visible across parts of Europe and the Atlantic.",
+      "length": 7
     }
   }
 }
