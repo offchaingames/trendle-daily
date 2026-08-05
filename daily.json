@@ -1,24 +1,24 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "categories": {
     "sports": {
-      "word": "ALCARAZ",
-      "hint": "Defending champion prepares for another Grand Slam challenge in New York.",
+      "word": "GLASGOW",
+      "hint": "The Scottish city currently hosting the Commonwealth Games, featuring a range of athletic competitions.",
       "length": 7
     },
     "pop_culture": {
-      "word": "RODRIGO",
-      "hint": "Pop superstar's latest album continues to dominate music charts worldwide.",
-      "length": 7
+      "word": "STERLING",
+      "hint": "A new teen and family drama series, 'Sterling Point,' premieres on Prime Video today, focusing on a girl inheriting a private island.",
+      "length": 8
     },
     "tech_science": {
-      "word": "GEMINI",
-      "hint": "A major AI model from Google receives significant upgrades, enhancing its advanced capabilities.",
-      "length": 6
+      "word": "NAVIGATR",
+      "hint": "Apolitical recently launched a free tool for public servants, supported by Google.org, to find successful AI projects.",
+      "length": 8
     },
     "major_news": {
-      "word": "ECLIPSE",
-      "hint": "Skygazers prepare for a rare celestial event visible across parts of Europe and the Atlantic.",
+      "word": "EVEREST",
+      "hint": "A mountaineer achieves an unprecedented solo ascent of the world's highest peak, setting a new speed record.",
       "length": 7
     }
   }
