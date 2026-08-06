@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "categories": {
     "sports": {
-      "word": "GLASGOW",
-      "hint": "The Scottish city currently hosting the Commonwealth Games, featuring a range of athletic competitions.",
-      "length": 7
+      "word": "NADAL",
+      "hint": "Tennis legend makes a triumphant return, clinching a major title against all odds.",
+      "length": 5
     },
     "pop_culture": {
-      "word": "STERLING",
-      "hint": "A new teen and family drama series, 'Sterling Point,' premieres on Prime Video today, focusing on a girl inheriting a private island.",
-      "length": 8
+      "word": "DUALIPA",
+      "hint": "Pop superstar drops her latest album to critical acclaim and record-breaking streams.",
+      "length": 7
     },
     "tech_science": {
-      "word": "NAVIGATR",
-      "hint": "Apolitical recently launched a free tool for public servants, supported by Google.org, to find successful AI projects.",
-      "length": 8
+      "word": "QUANTUM",
+      "hint": "Scientists announce a groundbreaking leap forward in the field of super-fast computing technology.",
+      "length": 7
     },
     "major_news": {
-      "word": "EVEREST",
-      "hint": "A mountaineer achieves an unprecedented solo ascent of the world's highest peak, setting a new speed record.",
-      "length": 7
+      "word": "CORAL",
+      "hint": "A pioneering conservation project successfully revitalizes a vast stretch of marine ecosystems.",
+      "length": 5
     }
   }
 }
