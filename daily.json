@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "categories": {
     "sports": {
-      "word": "NADAL",
-      "hint": "Tennis legend makes a triumphant return, clinching a major title against all odds.",
-      "length": 5
+      "word": "GRAY",
+      "hint": "Former Duke star and WNBA champion selected for the 2026 USA Basketball Women's National Team for the FIBA World Cup.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "DUALIPA",
-      "hint": "Pop superstar drops her latest album to critical acclaim and record-breaking streams.",
-      "length": 7
+      "word": "STRAY",
+      "hint": "Popular K-pop group set to release their highly anticipated new mini-album, 'THIS & THAT', today.",
+      "length": 5
     },
     "tech_science": {
-      "word": "QUANTUM",
-      "hint": "Scientists announce a groundbreaking leap forward in the field of super-fast computing technology.",
-      "length": 7
+      "word": "FUSION",
+      "hint": "Companies are securing significant funding and making breakthroughs in the quest for clean, limitless energy.",
+      "length": 6
     },
     "major_news": {
-      "word": "CORAL",
-      "hint": "A pioneering conservation project successfully revitalizes a vast stretch of marine ecosystems.",
-      "length": 5
+      "word": "BALI",
+      "hint": "Island is making strides in marine conservation, aiming to protect its waters and biodiversity.",
+      "length": 4
     }
   }
 }
