@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "categories": {
     "sports": {
-      "word": "GRAY",
-      "hint": "Former Duke star and WNBA champion selected for the 2026 USA Basketball Women's National Team for the FIBA World Cup.",
-      "length": 4
+      "word": "MCDAVID",
+      "hint": "Famed ice hockey captain and his family share a wholesome glimpse into their life off the rink amidst team preparations.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "STRAY",
-      "hint": "Popular K-pop group set to release their highly anticipated new mini-album, 'THIS & THAT', today.",
-      "length": 5
-    },
-    "tech_science": {
-      "word": "FUSION",
-      "hint": "Companies are securing significant funding and making breakthroughs in the quest for clean, limitless energy.",
+      "word": "COYOTE",
+      "hint": "The long-awaited animated comedy featuring a classic cartoon character finally hits theaters, praised by early viewers.",
       "length": 6
     },
+    "tech_science": {
+      "word": "LITHIUM",
+      "hint": "A new technological advancement promises to revolutionize the electric car industry by recovering a crucial battery element.",
+      "length": 7
+    },
     "major_news": {
-      "word": "BALI",
-      "hint": "Island is making strides in marine conservation, aiming to protect its waters and biodiversity.",
-      "length": 4
+      "word": "ALTUNEY",
+      "hint": "The founder of a global initiative encouraging positivity celebrates the 8th anniversary of 'Good News Day'.",
+      "length": 7
     }
   }
 }
