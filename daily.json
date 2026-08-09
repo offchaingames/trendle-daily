@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "categories": {
     "sports": {
-      "word": "MCDAVID",
-      "hint": "Famed ice hockey captain and his family share a wholesome glimpse into their life off the rink amidst team preparations.",
-      "length": 7
+      "word": "GHANA",
+      "hint": "This West African nation's women's football team is battling in the quarter-finals of the WAFCON 2026 tournament today.",
+      "length": 5
     },
     "pop_culture": {
-      "word": "COYOTE",
-      "hint": "The long-awaited animated comedy featuring a classic cartoon character finally hits theaters, praised by early viewers.",
-      "length": 6
+      "word": "DRAKE",
+      "hint": "Hip-hop artist whose surprise music video release is dominating online conversations and charts.",
+      "length": 5
     },
     "tech_science": {
-      "word": "LITHIUM",
-      "hint": "A new technological advancement promises to revolutionize the electric car industry by recovering a crucial battery element.",
-      "length": 7
+      "word": "VENOM",
+      "hint": "The specific name of the AI autonomy kit that successfully piloted a U.S. F-16 fighter jet for the first time.",
+      "length": 5
     },
     "major_news": {
-      "word": "ALTUNEY",
-      "hint": "The founder of a global initiative encouraging positivity celebrates the 8th anniversary of 'Good News Day'.",
-      "length": 7
+      "word": "VENUS",
+      "hint": "Conservationists are highlighted for their efforts to save this iconic carnivorous plant native to the Carolinas.",
+      "length": 5
     }
   }
 }
