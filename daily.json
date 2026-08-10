@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "categories": {
     "sports": {
-      "word": "GHANA",
-      "hint": "This West African nation's women's football team is battling in the quarter-finals of the WAFCON 2026 tournament today.",
-      "length": 5
+      "word": "USOPEN",
+      "hint": "Tennis world focuses on New York as top players prepare for the final Grand Slam of the year.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "DRAKE",
-      "hint": "Hip-hop artist whose surprise music video release is dominating online conversations and charts.",
-      "length": 5
+      "word": "ZENDAYA",
+      "hint": "Acclaimed actress celebrates the premiere of her latest highly anticipated sci-fi epic.",
+      "length": 7
     },
     "tech_science": {
-      "word": "VENOM",
-      "hint": "The specific name of the AI autonomy kit that successfully piloted a U.S. F-16 fighter jet for the first time.",
-      "length": 5
+      "word": "ARTEMIS",
+      "hint": "NASA's lunar exploration program successfully tests its next-generation Orion spacecraft for future human missions.",
+      "length": 7
     },
     "major_news": {
-      "word": "VENUS",
-      "hint": "Conservationists are highlighted for their efforts to save this iconic carnivorous plant native to the Carolinas.",
-      "length": 5
+      "word": "GALILEO",
+      "hint": "Astronomers announce a groundbreaking new finding about the largest moon in our solar system, linked to a historic mission.",
+      "length": 7
     }
   }
 }
