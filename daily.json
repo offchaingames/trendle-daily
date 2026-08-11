@@ -1,24 +1,24 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "categories": {
     "sports": {
-      "word": "USOPEN",
-      "hint": "Tennis world focuses on New York as top players prepare for the final Grand Slam of the year.",
-      "length": 6
+      "word": "SWIATEK",
+      "hint": "Polish tennis star makes a deep run in the Canadian Open, just months after a historic Grand Slam victory.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "ZENDAYA",
-      "hint": "Acclaimed actress celebrates the premiere of her latest highly anticipated sci-fi epic.",
-      "length": 7
+      "word": "TAYLOR",
+      "hint": "Pop music icon's fans are buzzing with excitement over an imminent album announcement, following weeks of speculation.",
+      "length": 6
     },
     "tech_science": {
       "word": "ARTEMIS",
-      "hint": "NASA's lunar exploration program successfully tests its next-generation Orion spacecraft for future human missions.",
+      "hint": "NASA's ambitious lunar program continues to make strides toward establishing a sustained human presence on the Moon.",
       "length": 7
     },
     "major_news": {
-      "word": "GALILEO",
-      "hint": "Astronomers announce a groundbreaking new finding about the largest moon in our solar system, linked to a historic mission.",
+      "word": "POMPEII",
+      "hint": "New archaeological finds and exhibitions continue to captivate the world at the ancient Roman city.",
       "length": 7
     }
   }
