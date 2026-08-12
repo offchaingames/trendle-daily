@@ -1,24 +1,24 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "categories": {
     "sports": {
-      "word": "SWIATEK",
-      "hint": "Polish tennis star makes a deep run in the Canadian Open, just months after a historic Grand Slam victory.",
-      "length": 7
+      "word": "BRUM",
+      "hint": "Host city of the European Athletics Championships, drawing record crowds and setting new athletic benchmarks.",
+      "length": 4
     },
     "pop_culture": {
-      "word": "TAYLOR",
-      "hint": "Pop music icon's fans are buzzing with excitement over an imminent album announcement, following weeks of speculation.",
-      "length": 6
+      "word": "PIXAR",
+      "hint": "Renowned animation studio releases a highly anticipated short film celebrating an iconic character's return.",
+      "length": 5
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA's ambitious lunar program continues to make strides toward establishing a sustained human presence on the Moon.",
-      "length": 7
+      "word": "CRISPR",
+      "hint": "Revolutionary gene-editing technique achieves a new milestone in clinical trials for a debilitating genetic condition.",
+      "length": 6
     },
     "major_news": {
       "word": "POMPEII",
-      "hint": "New archaeological finds and exhibitions continue to captivate the world at the ancient Roman city.",
+      "hint": "Archaeologists at a renowned ancient Roman site make a stunning discovery of remarkably preserved new frescoes.",
       "length": 7
     }
   }
