@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "categories": {
     "sports": {
-      "word": "BRUM",
-      "hint": "Host city of the European Athletics Championships, drawing record crowds and setting new athletic benchmarks.",
-      "length": 4
-    },
-    "pop_culture": {
-      "word": "PIXAR",
-      "hint": "Renowned animation studio releases a highly anticipated short film celebrating an iconic character's return.",
+      "word": "FEDEX",
+      "hint": "Golfers compete in the opening tournament of the PGA Tour's championship playoffs, kicking off in Memphis.",
       "length": 5
     },
+    "pop_culture": {
+      "word": "CAMP",
+      "hint": "A highly anticipated musical movie sequel, a beloved Disney franchise, is released in cinemas, delighting fans.",
+      "length": 4
+    },
     "tech_science": {
-      "word": "CRISPR",
-      "hint": "Revolutionary gene-editing technique achieves a new milestone in clinical trials for a debilitating genetic condition.",
-      "length": 6
+      "word": "WEBB",
+      "hint": "Astronomers announce the discovery of a new cosmic object, a black hole 'star,' using observations from a powerful space telescope.",
+      "length": 4
     },
     "major_news": {
-      "word": "POMPEII",
-      "hint": "Archaeologists at a renowned ancient Roman site make a stunning discovery of remarkably preserved new frescoes.",
-      "length": 7
+      "word": "MAORI",
+      "hint": "Indigenous people take over management of New Zealand's largest farm, marking a significant cultural and environmental milestone.",
+      "length": 5
     }
   }
 }
