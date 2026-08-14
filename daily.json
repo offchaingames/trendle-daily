@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "categories": {
     "sports": {
-      "word": "FEDEX",
-      "hint": "Golfers compete in the opening tournament of the PGA Tour's championship playoffs, kicking off in Memphis.",
-      "length": 5
+      "word": "SWIATEK",
+      "hint": "Top-ranked tennis star vies for a major title at the National Bank Open.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "CAMP",
-      "hint": "A highly anticipated musical movie sequel, a beloved Disney franchise, is released in cinemas, delighting fans.",
-      "length": 4
+      "word": "TAYLOR",
+      "hint": "Pop music icon's massively successful world tour continues to thrill fans globally.",
+      "length": 6
     },
     "tech_science": {
-      "word": "WEBB",
-      "hint": "Astronomers announce the discovery of a new cosmic object, a black hole 'star,' using observations from a powerful space telescope.",
-      "length": 4
+      "word": "ARTEMIS",
+      "hint": "NASA program makes critical progress in preparations for upcoming lunar missions.",
+      "length": 7
     },
     "major_news": {
-      "word": "MAORI",
-      "hint": "Indigenous people take over management of New Zealand's largest farm, marking a significant cultural and environmental milestone.",
-      "length": 5
+      "word": "AFRICA",
+      "hint": "Urgent focus of global humanitarian efforts highlighted ahead of World Humanitarian Day.",
+      "length": 6
     }
   }
 }
