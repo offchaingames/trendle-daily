@@ -2,23 +2,23 @@
   "date": "2026-08-15",
   "categories": {
     "sports": {
-      "word": "ARSENAL",
-      "hint": "English football club, defending champions of the Premier League, preparing for their season opener.",
+      "word": "PHILIPP",
+      "hint": "Triathlete utterly dominates the field, setting an incredible course record at the Ironman Kalmar event.",
       "length": 7
     },
     "pop_culture": {
-      "word": "BRINK",
-      "hint": "One of the highly anticipated films released this month, a historical political drama.",
-      "length": 5
+      "word": "KATSEYE",
+      "hint": "Global pop group releases highly anticipated third EP and launches big-screen documentary.",
+      "length": 7
     },
     "tech_science": {
-      "word": "QUANTUM",
-      "hint": "Scientists announce a breakthrough in creating a new material that operates at room temperature.",
+      "word": "ARTEMIS",
+      "hint": "NASA’s lunar exploration program provides an update following its historic crewed flyby mission earlier this year.",
       "length": 7
     },
     "major_news": {
-      "word": "NAOERO",
-      "hint": "The world's third-smallest country has officially changed its name to reflect its national language.",
+      "word": "BORNEO",
+      "hint": "A major international initiative announces significant progress in protecting vital rainforest ecosystems and their unique wildlife.",
       "length": 6
     }
   }
