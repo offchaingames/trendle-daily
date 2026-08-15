@@ -1,24 +1,24 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "categories": {
     "sports": {
-      "word": "SWIATEK",
-      "hint": "Top-ranked tennis star vies for a major title at the National Bank Open.",
+      "word": "ARSENAL",
+      "hint": "English football club, defending champions of the Premier League, preparing for their season opener.",
       "length": 7
     },
     "pop_culture": {
-      "word": "TAYLOR",
-      "hint": "Pop music icon's massively successful world tour continues to thrill fans globally.",
-      "length": 6
+      "word": "BRINK",
+      "hint": "One of the highly anticipated films released this month, a historical political drama.",
+      "length": 5
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA program makes critical progress in preparations for upcoming lunar missions.",
+      "word": "QUANTUM",
+      "hint": "Scientists announce a breakthrough in creating a new material that operates at room temperature.",
       "length": 7
     },
     "major_news": {
-      "word": "AFRICA",
-      "hint": "Urgent focus of global humanitarian efforts highlighted ahead of World Humanitarian Day.",
+      "word": "NAOERO",
+      "hint": "The world's third-smallest country has officially changed its name to reflect its national language.",
       "length": 6
     }
   }
