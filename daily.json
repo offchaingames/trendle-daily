@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "categories": {
     "sports": {
-      "word": "PHILIPP",
-      "hint": "Triathlete utterly dominates the field, setting an incredible course record at the Ironman Kalmar event.",
-      "length": 7
+      "word": "USOPEN",
+      "hint": "Major tennis championship reaching its thrilling climax in New York.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "KATSEYE",
-      "hint": "Global pop group releases highly anticipated third EP and launches big-screen documentary.",
-      "length": 7
+      "word": "ARIANA",
+      "hint": "Pop superstar is currently on her highly anticipated 'Eternal Sunshine' global tour.",
+      "length": 6
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA’s lunar exploration program provides an update following its historic crewed flyby mission earlier this year.",
+      "word": "JUPITER",
+      "hint": "NASA's Juno probe continues to send back stunning new images of the gas giant's turbulent atmosphere.",
       "length": 7
     },
     "major_news": {
-      "word": "BORNEO",
-      "hint": "A major international initiative announces significant progress in protecting vital rainforest ecosystems and their unique wildlife.",
-      "length": 6
+      "word": "PUPPIES",
+      "hint": "Critically endangered giant shovelnose ray newborns are successfully bred in captivity in China.",
+      "length": 7
     }
   }
 }
