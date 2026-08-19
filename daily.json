@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "categories": {
     "sports": {
-      "word": "AZTECA",
-      "hint": "Historic North American stadium buzzing after hosting a record-breaking championship final.",
-      "length": 6
+      "word": "KIPCHOGE",
+      "hint": "Legendary long-distance runner announces a new challenge, aiming to break his own record.",
+      "length": 8
     },
     "pop_culture": {
-      "word": "RIHANNA",
-      "hint": "Global music icon's highly anticipated new album breaks streaming records upon release.",
+      "word": "BEYONCE",
+      "hint": "Global music icon's new single shatters streaming records upon its surprise release.",
       "length": 7
     },
     "tech_science": {
       "word": "ARTEMIS",
-      "hint": "NASA's lunar exploration program successfully completes a critical uncrewed test flight for future missions.",
+      "hint": "NASA's lunar exploration program announces a key milestone for its upcoming crewed mission.",
       "length": 7
     },
     "major_news": {
-      "word": "AMAZON",
-      "hint": "Major international conservation initiative celebrates a significant milestone in preserving a vital rainforest.",
-      "length": 6
+      "word": "EVEREST",
+      "hint": "A mountaineer sets a new record for the fastest ascent of the world's highest peak.",
+      "length": 7
     }
   }
 }
