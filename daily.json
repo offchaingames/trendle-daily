@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "categories": {
     "sports": {
-      "word": "KIPCHOGE",
-      "hint": "Legendary long-distance runner announces a new challenge, aiming to break his own record.",
-      "length": 8
+      "word": "USOPEN",
+      "hint": "The final tennis Grand Slam of the year begins in New York City.",
+      "length": 6
     },
     "pop_culture": {
-      "word": "BEYONCE",
-      "hint": "Global music icon's new single shatters streaming records upon its surprise release.",
-      "length": 7
+      "word": "THRASHER",
+      "hint": "The new album from this American rock singer is released today.",
+      "length": 8
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA's lunar exploration program announces a key milestone for its upcoming crewed mission.",
+      "word": "REDDOTS",
+      "hint": "Astronomers reported a new cosmic object that explains hundreds of mysterious celestial observations.",
       "length": 7
     },
     "major_news": {
-      "word": "EVEREST",
-      "hint": "A mountaineer sets a new record for the fastest ascent of the world's highest peak.",
-      "length": 7
+      "word": "PANDAS",
+      "hint": "A landmark conservation effort leads to the reintroduction of these iconic animals into their natural habitat, boosting their global population.",
+      "length": 6
     }
   }
 }
