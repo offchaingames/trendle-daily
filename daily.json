@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "categories": {
     "sports": {
-      "word": "USOPEN",
-      "hint": "The final tennis Grand Slam of the year begins in New York City.",
-      "length": 6
-    },
-    "pop_culture": {
-      "word": "THRASHER",
-      "hint": "The new album from this American rock singer is released today.",
+      "word": "AUCKLAND",
+      "hint": "New Zealand football club wins a record-extending continental championship title.",
       "length": 8
     },
+    "pop_culture": {
+      "word": "GOLDEN",
+      "hint": "A K-Pop song from a unique group unexpectedly takes the top spot on global trending charts.",
+      "length": 6
+    },
     "tech_science": {
-      "word": "REDDOTS",
-      "hint": "Astronomers reported a new cosmic object that explains hundreds of mysterious celestial observations.",
-      "length": 7
+      "word": "STARLINK",
+      "hint": "Satellite internet provider reaches a new milestone with over 11,000 operational spacecraft in orbit.",
+      "length": 8
     },
     "major_news": {
-      "word": "PANDAS",
-      "hint": "A landmark conservation effort leads to the reintroduction of these iconic animals into their natural habitat, boosting their global population.",
-      "length": 6
+      "word": "ZION",
+      "hint": "National park introduces groundbreaking all-terrain wheelchairs, making trails accessible to all visitors.",
+      "length": 4
     }
   }
 }
