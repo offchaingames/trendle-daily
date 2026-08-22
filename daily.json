@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "categories": {
     "sports": {
-      "word": "AUCKLAND",
-      "hint": "New Zealand football club wins a record-extending continental championship title.",
-      "length": 8
-    },
-    "pop_culture": {
-      "word": "GOLDEN",
-      "hint": "A K-Pop song from a unique group unexpectedly takes the top spot on global trending charts.",
+      "word": "VUELTA",
+      "hint": "Major international cycling event starting its Grand Départ in Monaco.",
       "length": 6
     },
+    "pop_culture": {
+      "word": "ROSES",
+      "hint": "Part of the iconic rock band performing a major stadium concert today.",
+      "length": 5
+    },
     "tech_science": {
-      "word": "STARLINK",
-      "hint": "Satellite internet provider reaches a new milestone with over 11,000 operational spacecraft in orbit.",
-      "length": 8
+      "word": "WEBB",
+      "hint": "Powerful space telescope capturing stunning new images of the Lion Nebula this week.",
+      "length": 4
     },
     "major_news": {
-      "word": "ZION",
-      "hint": "National park introduces groundbreaking all-terrain wheelchairs, making trails accessible to all visitors.",
-      "length": 4
+      "word": "AMAZON",
+      "hint": "Brazilian deforestation rates plummet to a historic low, offering hope for this vital rainforest.",
+      "length": 6
     }
   }
 }
