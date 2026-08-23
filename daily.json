@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "categories": {
     "sports": {
-      "word": "VUELTA",
-      "hint": "Major international cycling event starting its Grand Départ in Monaco.",
-      "length": 6
+      "word": "ALCARAZ",
+      "hint": "Young tennis sensation continues his dominance, preparing for the final Grand Slam of the year.",
+      "length": 7
     },
     "pop_culture": {
       "word": "ROSES",
-      "hint": "Part of the iconic rock band performing a major stadium concert today.",
+      "hint": "An iconic rock band performs a major concert in Las Vegas on this date as part of their highly anticipated world tour.",
       "length": 5
     },
     "tech_science": {
-      "word": "WEBB",
-      "hint": "Powerful space telescope capturing stunning new images of the Lion Nebula this week.",
-      "length": 4
+      "word": "STARLINK",
+      "hint": "A major satellite constellation expands its orbital presence, pushing past a significant milestone in August.",
+      "length": 8
     },
     "major_news": {
-      "word": "AMAZON",
-      "hint": "Brazilian deforestation rates plummet to a historic low, offering hope for this vital rainforest.",
-      "length": 6
+      "word": "GHANA",
+      "hint": "This West African nation makes history by establishing its first national marine protected area, a milestone in ocean conservation.",
+      "length": 5
     }
   }
 }
