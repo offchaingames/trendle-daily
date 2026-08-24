@@ -2,23 +2,23 @@
   "date": "2026-08-23",
   "categories": {
     "sports": {
-      "word": "ALCARAZ",
-      "hint": "Young tennis sensation continues his dominance, preparing for the final Grand Slam of the year.",
-      "length": 7
-    },
-    "pop_culture": {
-      "word": "ROSES",
-      "hint": "An iconic rock band performs a major concert in Las Vegas on this date as part of their highly anticipated world tour.",
+      "word": "CLARK",
+      "hint": "Golfer clinches his second major championship title at the U.S. Open.",
       "length": 5
     },
+    "pop_culture": {
+      "word": "WEEZER",
+      "hint": "Veteran rock band releases a highly anticipated new album as part of August's music lineup.",
+      "length": 6
+    },
     "tech_science": {
-      "word": "STARLINK",
-      "hint": "A major satellite constellation expands its orbital presence, pushing past a significant milestone in August.",
-      "length": 8
+      "word": "CRISPR",
+      "hint": "Gene-editing technology unlocks drought-tolerant crops, advancing food security.",
+      "length": 6
     },
     "major_news": {
-      "word": "GHANA",
-      "hint": "This West African nation makes history by establishing its first national marine protected area, a milestone in ocean conservation.",
+      "word": "TIGER",
+      "hint": "First of its kind released into the wild in Kazakhstan after 70 years, marking a major conservation milestone.",
       "length": 5
     }
   }
