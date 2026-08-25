@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-25",
   "categories": {
     "sports": {
-      "word": "CLARK",
-      "hint": "Golfer clinches his second major championship title at the U.S. Open.",
-      "length": 5
+      "word": "KEJELCHA",
+      "hint": "Ethiopian runner reclaims world record in the half marathon in Buenos Aires.",
+      "length": 8
     },
     "pop_culture": {
-      "word": "WEEZER",
-      "hint": "Veteran rock band releases a highly anticipated new album as part of August's music lineup.",
-      "length": 6
+      "word": "ODYSSEY",
+      "hint": "Christopher Nolan's epic film adaptation breaks another box-office record.",
+      "length": 7
     },
     "tech_science": {
-      "word": "CRISPR",
-      "hint": "Gene-editing technology unlocks drought-tolerant crops, advancing food security.",
-      "length": 6
+      "word": "ROMAN",
+      "hint": "NASA's powerful new space telescope is cleared for its highly anticipated launch.",
+      "length": 5
     },
     "major_news": {
-      "word": "TIGER",
-      "hint": "First of its kind released into the wild in Kazakhstan after 70 years, marking a major conservation milestone.",
-      "length": 5
+      "word": "GUINNESS",
+      "hint": "The iconic book of world records celebrates its 70th anniversary this week.",
+      "length": 8
     }
   }
 }
