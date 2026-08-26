@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "categories": {
     "sports": {
-      "word": "KEJELCHA",
-      "hint": "Ethiopian runner reclaims world record in the half marathon in Buenos Aires.",
-      "length": 8
+      "word": "SABALENKA",
+      "hint": "Dominant force in women's tennis claims another Grand Slam title on American hard courts.",
+      "length": 9
     },
     "pop_culture": {
-      "word": "ODYSSEY",
-      "hint": "Christopher Nolan's epic film adaptation breaks another box-office record.",
-      "length": 7
-    },
-    "tech_science": {
-      "word": "ROMAN",
-      "hint": "NASA's powerful new space telescope is cleared for its highly anticipated launch.",
+      "word": "ADELE",
+      "hint": "Award-winning vocalist breaks streaming records with her surprise new album drop.",
       "length": 5
     },
+    "tech_science": {
+      "word": "ARTEMIS",
+      "hint": "NASA's lunar exploration program successfully completes another crucial test flight ahead of human return.",
+      "length": 7
+    },
     "major_news": {
-      "word": "GUINNESS",
-      "hint": "The iconic book of world records celebrates its 70th anniversary this week.",
-      "length": 8
+      "word": "EVEREST",
+      "hint": "Renowned mountaineer sets a new speed record on the world's highest peak.",
+      "length": 7
     }
   }
 }
