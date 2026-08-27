@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "categories": {
     "sports": {
-      "word": "SABALENKA",
-      "hint": "Dominant force in women's tennis claims another Grand Slam title on American hard courts.",
-      "length": 9
+      "word": "ALCARAZ",
+      "hint": "Spanish tennis phenom is the defending champion and confirmed to return for the final major of the year, recovering from a wrist injury.",
+      "length": 7
     },
     "pop_culture": {
-      "word": "ADELE",
-      "hint": "Award-winning vocalist breaks streaming records with her surprise new album drop.",
-      "length": 5
+      "word": "PHEOBE",
+      "hint": "Beloved alternative folk singer-songwriter Bridgers releases a new album after more than six years.",
+      "length": 6
     },
     "tech_science": {
-      "word": "ARTEMIS",
-      "hint": "NASA's lunar exploration program successfully completes another crucial test flight ahead of human return.",
-      "length": 7
+      "word": "FALCON",
+      "hint": "NASA successfully tested a system allowing satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit.",
+      "length": 6
     },
     "major_news": {
-      "word": "EVEREST",
-      "hint": "Renowned mountaineer sets a new speed record on the world's highest peak.",
-      "length": 7
+      "word": "AMAZON",
+      "hint": "Conservation efforts continue for the world's largest rainforest, which has seen deforestation fall to a 10-year low.",
+      "length": 6
     }
   }
 }
