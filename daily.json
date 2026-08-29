@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "categories": {
     "sports": {
       "word": "ALCARAZ",
-      "hint": "Defending champion at a major tennis tournament faces a challenging path in the third round.",
+      "hint": "Spanish tennis sensation claims another Grand Slam title on hard court.",
       "length": 7
     },
     "pop_culture": {
-      "word": "BADU",
-      "hint": "An acclaimed neo-soul artist releases a new collaborative album to critical buzz today.",
-      "length": 4
+      "word": "ADELE",
+      "hint": "Beloved British singer releases her highly anticipated new album, breaking streaming records.",
+      "length": 5
     },
     "tech_science": {
-      "word": "GENOME",
-      "hint": "A new U.S. science center is launched to engineer intelligence related to cellular function and DNA organization.",
+      "word": "NVIDIA",
+      "hint": "Leading chipmaker unveils a revolutionary new AI processor, boosting global computing power.",
       "length": 6
     },
     "major_news": {
-      "word": "REPAIR",
-      "hint": "A new European Union law aims to make consumer goods easier and more affordable to fix, promoting sustainability.",
-      "length": 6
+      "word": "PANDA",
+      "hint": "Conservation efforts lead to a significant increase in the wild population of this beloved bear.",
+      "length": 5
     }
   }
 }
