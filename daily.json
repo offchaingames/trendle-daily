@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "categories": {
     "sports": {
-      "word": "ALCARAZ",
-      "hint": "Spanish tennis sensation claims another Grand Slam title on hard court.",
-      "length": 7
+      "word": "ANDREEVA",
+      "hint": "Teenage tennis sensation enters the US Open as a top contender, building on a stellar season.",
+      "length": 8
     },
     "pop_culture": {
-      "word": "ADELE",
-      "hint": "Beloved British singer releases her highly anticipated new album, breaking streaming records.",
+      "word": "EVITA",
+      "hint": "The full album for a celebrated West End musical, featuring a new single, is released today.",
       "length": 5
     },
     "tech_science": {
-      "word": "NVIDIA",
-      "hint": "Leading chipmaker unveils a revolutionary new AI processor, boosting global computing power.",
-      "length": 6
+      "word": "ROMAN",
+      "hint": "NASA's next-generation space telescope, set to survey dark energy and exoplanets, is poised for launch today.",
+      "length": 5
     },
     "major_news": {
-      "word": "PANDA",
-      "hint": "Conservation efforts lead to a significant increase in the wild population of this beloved bear.",
-      "length": 5
+      "word": "POMPEII",
+      "hint": "New archaeological finds and an exhibition shed light on daily life and the eruption of the ancient Roman city.",
+      "length": 7
     }
   }
 }
