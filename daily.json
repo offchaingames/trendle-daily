@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "categories": {
     "sports": {
-      "word": "ANDREEVA",
-      "hint": "Teenage tennis sensation enters the US Open as a top contender, building on a stellar season.",
+      "word": "DJOKOVIC",
+      "hint": "Tennis legend seeks a historic 25th major singles title at the ongoing Grand Slam event.",
       "length": 8
     },
     "pop_culture": {
-      "word": "EVITA",
-      "hint": "The full album for a celebrated West End musical, featuring a new single, is released today.",
-      "length": 5
+      "word": "ZENDAYA",
+      "hint": "Acclaimed actress stars in a romantic dark comedy film that recently became available on a major streaming service.",
+      "length": 7
     },
     "tech_science": {
       "word": "ROMAN",
-      "hint": "NASA's next-generation space telescope, set to survey dark energy and exoplanets, is poised for launch today.",
+      "hint": "NASA’s newly launched space telescope, featuring advanced technology, promises sky surveys up to 1,000 times faster.",
       "length": 5
     },
     "major_news": {
-      "word": "POMPEII",
-      "hint": "New archaeological finds and an exhibition shed light on daily life and the eruption of the ancient Roman city.",
-      "length": 7
+      "word": "CUNHA",
+      "hint": "Olympic champion sets a new South American record for crossing a famous strait.",
+      "length": 5
     }
   }
 }
