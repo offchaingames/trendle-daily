@@ -1,25 +1,25 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "categories": {
     "sports": {
-      "word": "DJOKOVIC",
-      "hint": "Tennis legend seeks a historic 25th major singles title at the ongoing Grand Slam event.",
-      "length": 8
-    },
-    "pop_culture": {
-      "word": "ZENDAYA",
-      "hint": "Acclaimed actress stars in a romantic dark comedy film that recently became available on a major streaming service.",
+      "word": "ALCARAZ",
+      "hint": "Tennis prodigy clinches another Grand Slam title, solidifying his world No. 1 ranking after a thrilling final.",
       "length": 7
     },
+    "pop_culture": {
+      "word": "SWIFT",
+      "hint": "Pop music sensation announces her highly anticipated new album and world tour dates, sending fans into a frenzy.",
+      "length": 5
+    },
     "tech_science": {
-      "word": "ROMAN",
-      "hint": "NASA’s newly launched space telescope, featuring advanced technology, promises sky surveys up to 1,000 times faster.",
+      "word": "APPLE",
+      "hint": "Tech giant unveils its next-generation smartphone and revolutionary new operating system at its annual fall event.",
       "length": 5
     },
     "major_news": {
-      "word": "CUNHA",
-      "hint": "Olympic champion sets a new South American record for crossing a famous strait.",
-      "length": 5
+      "word": "POMPEII",
+      "hint": "Archaeologists announce the incredible discovery of a perfectly preserved ancient Roman villa at the historic site, offering new insights into daily life.",
+      "length": 7
     }
   }
 }
