@@ -1,25 +1,25 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "categories": {
     "sports": {
-      "word": "ALCARAZ",
-      "hint": "Tennis prodigy clinches another Grand Slam title, solidifying his world No. 1 ranking after a thrilling final.",
-      "length": 7
-    },
-    "pop_culture": {
-      "word": "SWIFT",
-      "hint": "Pop music sensation announces her highly anticipated new album and world tour dates, sending fans into a frenzy.",
+      "word": "MESSI",
+      "hint": "Legendary football player announces his retirement from international competition.",
       "length": 5
     },
+    "pop_culture": {
+      "word": "ARCHIE",
+      "hint": "Classic comic book character receives a highly anticipated new series reboot on September 2.",
+      "length": 6
+    },
     "tech_science": {
-      "word": "APPLE",
-      "hint": "Tech giant unveils its next-generation smartphone and revolutionary new operating system at its annual fall event.",
+      "word": "BRAIN",
+      "hint": "Researchers unveil a groundbreaking 'mind-reading' hearing system that reads neural signals to aid hearing in noisy environments.",
       "length": 5
     },
     "major_news": {
-      "word": "POMPEII",
-      "hint": "Archaeologists announce the incredible discovery of a perfectly preserved ancient Roman villa at the historic site, offering new insights into daily life.",
-      "length": 7
+      "word": "TURTLE",
+      "hint": "New long-term research reveals unexpected findings about the migratory patterns of a beloved marine species in the Galápagos.",
+      "length": 6
     }
   }
 }
